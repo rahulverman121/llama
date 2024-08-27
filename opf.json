@@ -510,3 +510,1071 @@
         "output": "The clients for the OPF product from Nagra are 4ig, Euskatel, Claro Columbia, Claro Brazil, and Starhub."
     }
 ]
+
+{
+"How to Reset my Password":[
+ {
+  "Instruction": "Could you please help me reset my password?",
+  "Input": " ",
+  "Output": "Certainly! You can reset your password by going to the login page and clicking on the 'Forgot Password' link. Follow the instructions sent to your email."
+ },
+ {
+  "Instruction": "I seem to have forgotten my password. Can you assist with resetting it?",
+  "Input": " ",
+  "Output": "You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "I would like to request a password reset, as I am unable to access my account.",
+  "Input": " ",
+  "Output": "To reset your password, please follow these steps. You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "Is there a way to recover my password? I seem to have misplaced it.",
+  "Input": " ",
+  "Output": "Resetting your password is secure. You'll receive an email with instructions to ensure only you can reset it."
+ },
+ {
+  "Instruction": "Hey, I can't remember my password. Can you help me reset it?",
+  "Input": " ",
+  "Output": "You can reset your password by going to the login page and clicking on the 'Forgot Password' link. Follow the instructions sent to your email."
+ },
+ {
+  "Instruction": "I'm having trouble accessing my account due to a forgotten password. Could you guide me through resetting it?",
+  "Input": " ",
+  "Output": "You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "What should I do if I forget my password?",
+  "Input": " ",
+  "Output": "I understand your situation. You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "I'm having trouble logging in. Is there a way to reset my password?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "I've forgotten my password. Could you please advise me on how to recover it?",
+  "Input": " ",
+  "Output": "Not a problem! You can regain access by clicking 'Forgot Password' on the login page. A reset link will be sent to your registered email."
+ },
+ {
+  "Instruction": "Oops, forgot my password again! Can you help me reset it?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "I appear to have forgotten my password. Would you be able to assist me in resetting it?",
+  "Input": " ",
+  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+ },
+ {
+  "Instruction": "I urgently need to reset my password. Could you provide guidance on how to proceed?",
+  "Input": " ",
+  "Output": "I understand forgetting passwords can be frustrating. We're here to help you regain access quickly. You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "I'm unable to access my account due to a forgotten password. Can you help me reset it?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "It seems I've forgotten my password. What steps should I take to recover it?",
+  "Input": " ",
+  "Output": "You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "If I forget my password, what's the process for resetting it?",
+  "Input": " ",
+  "Output": "Resetting your password is secure. You'll receive an email with instructions to ensure only you can reset it."
+ },
+ {
+  "Instruction": "Could you please send me instructions on how to reset my password?",
+  "Input": " ",
+  "Output": "You'll receive an email with instructions to ensure only you can reset it."
+ },
+ {
+  "Instruction": "I'm unsure how to reset my password. Could you clarify the steps for me?",
+  "Input": " ",
+  "Output": "You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "What options do I have if I forget my password?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "Is there a policy or procedure for resetting a forgotten password?",
+  "Input": " ",
+  "Output": "I'm here to assist you with any issues you encounter while resetting your password. You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "Is there documentation available for resetting a forgotten password?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "I'm having trouble logging in. How can I recover my password?",
+  "Input": " ",
+  "Output": "I understand forgetting passwords can be frustrating. We're here to help you regain access quickly. You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "I need to reset my password urgently. What should I do?",
+  "Input": " ",
+  "Output": "I understand forgetting passwords can be frustrating. We're here to help you regain access quickly. You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "How can I verify my identity to reset my password?",
+  "Input": " ",
+  "Output": "Resetting your password is secure. You'll receive an email with instructions to ensure only you can reset it."
+ },
+ {
+  "Instruction": "Is there someone available who can assist me with resetting my password?",
+  "Input": " ",
+  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+ },
+ {
+  "Instruction": "I've forgotten my password. Can you help me regain access?",
+  "Input": " ",
+  "Output": "You can initiate a password reset by visiting our website\/app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "Could I get help with resetting my password via chat\/email?",
+  "Input": " ",
+  "Output": "Ofcourse! You can regain access by clicking 'Forgot Password' on the login page. A reset link will be sent to your registered email."
+ },
+ {
+  "Instruction": "What are the available channels to get assistance with resetting my password?",
+  "Input": " ",
+  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+ },
+ {
+  "Instruction": "Could you walk me through the steps to reset my password?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "\"What's the process for recovering my account if I forget my password?",
+  "Input": " ",
+  "Output": "You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "Are there self-service options available for resetting my password?",
+  "Input": " ",
+  "Output": "Please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+ },
+ {
+  "Instruction": "I can't access my account because I forgot my password. Can you assist me?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "I've misplaced my password. How can I rectify this?",
+  "Input": " ",
+  "Output": "You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "Besides resetting my password, are there other ways to access my account?",
+  "Input": " ",
+  "Output": "Please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+ },
+ {
+  "Instruction": "I need immediate assistance with resetting my password. Could you help?",
+  "Input": " ",
+  "Output": "Certainly! You can regain access by clicking 'Forgot Password' on the login page. A reset link will be sent to your registered email."
+ },
+ {
+  "Instruction": "Could you clarify the steps I need to take to reset my password?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "Should I reset my password if I've forgotten it?",
+  "Input": " ",
+  "Output": "Yes. You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "I forgot my password. Can you please help me reset it?",
+  "Input": " ",
+  "Output": "We're here to help you regain access quickly. You can manage your password by going to your account settings and selecting 'Change Password' or 'Forgot Password.'"
+ },
+ {
+  "Instruction": "How can I regain access to my account if I forgot my password?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "I urgently need to reset my password. What should I do?",
+  "Input": " ",
+  "Output": "You can regain access by clicking 'Forgot Password' on the login page. A reset link will be sent to your registered email."
+ },
+ {
+  "Instruction": "Who should I contact for help with resetting my password?",
+  "Input": " ",
+  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+ },
+ {
+  "Instruction": "Could you explain the process for resetting a forgotten password?",
+  "Input": " ",
+  "Output": "You can regain access by clicking 'Forgot Password' on the login page. A reset link will be sent to your registered email."
+ },
+ {
+  "Instruction": "What security measures are in place for resetting a forgotten password?",
+  "Input": " ",
+  "Output": "Resetting your password is secure. You'll receive an email with instructions to ensure only you can reset it."
+ },
+ {
+  "Instruction": "I'm experiencing technical issues with resetting my password. Can you assist?",
+  "Input": " ",
+  "Output": "You can initiate a password reset by visiting our website or app and selecting the 'Forgot Password' option."
+ },
+ {
+  "Instruction": "Can you provide tips for managing passwords to prevent forgetting them?",
+  "Input": " ",
+  "Output": "To reset your password, go to the login page, click on 'Forgot Password,' and enter your email. Follow the instructions in the email we'll send you."
+ },
+ {
+  "Instruction": "How can I ensure my account remains secure after resetting my password?",
+  "Input": " ",
+  "Output": "Resetting your password is secure. You'll receive an email with instructions to ensure only you can reset it."
+ }
+],
+"How can I record an event":[
+ {
+  "Instructions": "Could you please let me know how I can record an event?",
+  "Input": " ",
+  "Output": "Certainly! Please open the media card of the Event you wish to record. After doing so, select the record option and specify whether you would like to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "How can I record an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "I would like to request guidance on how to record an event.",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "What are the steps or tools required to record an event?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "Hey, how do I record an event?",
+  "Input": " ",
+  "Output": "Just open the media card for the Event you want to record, hit the record button, and pick if you want to record this episode, the whole series, or just new episodes."
+ },
+ {
+  "Instructions": "Hello, I'm looking for assistance with recording an event. Could you provide instructions?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "How do I record an event?",
+  "Input": " ",
+  "Output": "For recording an Event, access the media card and select the record option. You will need to specify if you want to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you assist me with the process of recording an event?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Could you guide me on how to go about recording an event?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you tell me how to record an event?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "I am seeking assistance on the procedure for recording an event.",
+  "Input": " ",
+  "Output": "For recording an Event, access the media card and select the record option. You will need to specify if you want to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "I urgently need help with recording an event. What steps should I follow?",
+  "Input": " ",
+  "Output": "Just open the media card for the Event you want to record, hit the record button, and pick if you want to record this episode, the whole series, or just new episodes."
+ },
+ {
+  "Instructions": "I'm encountering difficulties with recording an event. Can you provide technical support?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "I need instructions on how to record an event.",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "Could you confirm the procedure for recording an event?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Could you provide instructions for recording an event?",
+  "Input": " ",
+  "Output": "Just open the media card for the Event you want to record, hit the record button, and pick if you want to record this episode, the whole series, or just new episodes."
+ },
+ {
+  "Instructions": "I need some clarification on how to record an event. Can you help?",
+  "Input": " ",
+  "Output": "For recording an Event, access the media card and select the record option. You will need to specify if you want to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "What options do I have for recording an event?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you inform me about the policy for recording an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Is there any help documentation available on how to record an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+ },
+ {
+  "Instructions": "I'm a bit confused about how to record an event. Can you explain?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "I need immediate assistance with recording an event. What should I do?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "I'm looking to record an event. Could you provide me with the instructions?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "I understand there might be a specific process for recording an event. Could you provide details?",
+  "Input": " ",
+  "Output": "For recording an Event, access the media card and select the record option. You will need to specify if you want to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "What are the support channels available for assistance with recording an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+ },
+ {
+  "Instructions": "Could you provide step-by-step guidance on how to record an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you provide detailed instructions on how to record an event?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "Are there any self-service options available for recording an event?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "I'm having trouble figuring out how to record an event. Can someone help?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "I understand it’s my responsibility to record this event. Can you guide me through the process?",
+  "Input": " ",
+  "Output": "Please open the media card of the Event you wish to record. After doing so, select the record option and specify whether you would like to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "If the usual method for recording an event isn't working, what alternative solutions are available?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes. If you still have doubts, please contact X-XXX-XXX-XXXX"
+ },
+ {
+  "Instructions": "I need timely assistance with recording an event. Can you help as soon as possible?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "I want to ensure I understand how to record an event correctly. Can you provide detailed instructions?",
+  "Input": " ",
+  "Output": "For recording an Event, access the media card and select the record option. You will need to specify if you want to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you confirm the correct way to record an event?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ },
+ {
+  "Instructions": "I need help with recording an event. What should I do?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Where can I find a user guide or manual for recording an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+ },
+ {
+  "Instructions": "Can you provide the contact information for support related to recording an event?",
+  "Input": " ",
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+ },
+ {
+  "Instructions": "What is the recommended way to record an event for the best user experience?",
+  "Input": " ",
+  "Output": "For recording an Event, access the media card and select the record option. You will need to specify if you want to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "What features are available for recording an event and how do I use them?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "I’m experiencing technical difficulties with recording an event. Can you assist?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you clarify the workflow for recording an event?",
+  "Input": " ",
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes."
+ },
+ {
+  "Instructions": "Can you explain the procedure for recording an event?",
+  "Input": " ",
+  "Output": "To record an Event, access the media card associated with it. Click on the record option, then choose to record either the current episode, the whole series, or all new episodes."
+ }
+],
+"How to subscribe to a channel":[
+ {
+  "Instruction": "Could you please let me know how I can subscribe to a channel?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "How can I subscribe to a channel?",
+  "Input": " ",
+  "Output": "To subscribe to the channel, contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I would like to request information on how to subscribe to a channel",
+  "Input": " ",
+  "Output": "To subscribe to the channel, please reach out to X-XXX-XXX-XXXX for detailed instructions."
+ },
+ {
+  "Instruction": "What are the steps or requirements for subscribing to a channel?",
+  "Input": " ",
+  "Output": "For technical assistance with subscribing to the channel, please contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "Hey, how do I subscribe to a channel?",
+  "Input": " ",
+  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+ },
+ {
+  "Instruction": "Hello, I need assistance with subscribing to a channel. Could you guide me through the process?",
+  "Input": " ",
+  "Output": "To subscribe to the channel, please contact our support team at X-XXX-XXX-XXXX for help."
+ },
+ {
+  "Instruction": "How do I subscribe to a channel?",
+  "Input": " ",
+  "Output": "Contact X-XXX-XXX-XXXX to subscribe to the channel."
+ },
+ {
+  "Instruction": "Can you assist me with the process of subscribing to a channel?",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "Could you guide me on how to subscribe to a channel?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "Can you tell me how to subscribe to a channel?",
+  "Input": " ",
+  "Output": "Call X-XXX-XXX-XXXX to get subscribed to the channel."
+ },
+ {
+  "Instruction": "I am seeking assistance on the procedure for subscribing to a channel.",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "I need urgent help with subscribing to a channel. What steps should I follow?",
+  "Input": " ",
+  "Output": "For urgent help with subscribing to the channel, please contact X-XXX-XXX-XXXX immediately."
+ },
+ {
+  "Instruction": "I'm having trouble with subscribing to a channel. Can you provide technical support?",
+  "Input": " ",
+  "Output": "To get technical support for subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I need instructions on how to subscribe to a channel.",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "Could you confirm the procedure for subscribing to a channel?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "Instruct as to how I can subscribe to a channel.",
+  "Input": " ",
+  "Output": "Contact X-XXX-XXX-XXXX to receive instructions on how to subscribe to the channel."
+ },
+ {
+  "Instruction": "I need some clarification on how to subscribe to a channel. Can you help?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "What options do I have for subscribing to a channel?",
+  "Input": " ",
+  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+ },
+ {
+  "Instruction": "Can you inform me about the policy for subscribing to a channel?",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "Is there any help documentation available on how to subscribe to a channel?",
+  "Input": " ",
+  "Output": "If you need help documentation for subscribing to the channel, please contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I'm a bit confused about how to subscribe to a channel. Can you explain?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "I need immediate assistance with subscribing to a channel. What should I do?",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "Could you help me with the process of subscribing to a channel?",
+  "Input": " ",
+  "Output": "For customer service assistance with subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "Can you confirm if support is available to help me with subscribing to a channel?",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "I understand there might be a specific process for subscribing to a channel. Could you provide details?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "Can I get help with subscribing to a channel through chat or email?",
+  "Input": " ",
+  "Output": "To know more about subscribing to a channel through chat, please contact X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "What are the support channels available for assistance with subscribing to a channel?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "Could you provide step-by-step guidance on how to subscribe to a channel?",
+  "Input": " ",
+  "Output": "Contact X-XXX-XXX-XXXX to subscribe to the channels of your choice."
+ },
+ {
+  "Instruction": "Is there a user guide or manual for subscribing to a channel?",
+  "Input": " ",
+  "Output": "To find a user guide for subscribing to the channel, contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "Are there any self-service options available for subscribing to a channel?",
+  "Input": " ",
+  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+ },
+ {
+  "Instruction": "I'm having trouble figuring out how to subscribe to a channel. Can someone help?",
+  "Input": " ",
+  "Output": "If you’re having trouble with subscribing to the channel, please contact X-XXX-XXX-XXXX for assistance."
+ },
+ {
+  "Instruction": "I understand it’s my responsibility to subscribe to this channel. Can you guide me through the process?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "If the usual method for subscribing to a channel isn't working, what alternative solutions are available?",
+  "Input": " ",
+  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+ },
+ {
+  "Instruction": "I need timely assistance with subscribing to a channel. Can you help as soon as possible?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I want to ensure I understand how to subscribe to a channel correctly. Can you provide detailed instructions?",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "How do I subscribe to a channel?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "I need help with subscribing to a channel. What should I do?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "Is there a tutorial available on how to subscribe to a channel?",
+  "Input": " ",
+  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+ },
+ {
+  "Instruction": "Can you provide detailed instructions on how to subscribe to a channel?",
+  "Input": " ",
+  "Output": "To subscribe to the channel, please contact our support team at X-XXX-XXX-XXXX. "
+ },
+ {
+  "Instruction": "Can you provide the contact information for support related to subscribing to a channel?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "What is the recommended way to subscribe to a channel for the best experience?",
+  "Input": " ",
+  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+ },
+ {
+  "Instruction": "What features are available for subscribing to a channel, and how do I use them?",
+  "Input": " ",
+  "Output": "To subscribe to the channel, contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I’m experiencing technical difficulties with subscribing to a channel. Can you assist?",
+  "Input": " ",
+  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+ },
+ {
+  "Instruction": "Can you clarify the workflow for subscribing to a channel?",
+  "Input": " ",
+  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+ }
+],
+"How to add event to watchlist":[
+ {
+  "Instruction": "Could you please let me know how I can add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Ofcourse! Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set."
+ },
+ {
+  "Instruction": "How can I add an event to my watchlist?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel."
+ },
+ {
+  "Instruction": "I would like to request guidance on how to add an event to my watchlist.",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "What are the steps or tools required to add an event to my watchlist?",
+  "Input": " ",
+  "Output": "To Favourite an Event the steps are as follows: open the media card, click the heart-shaped Favorite option, and choose whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Hey, how do I add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Just open up the media card, hit the heart icon to favorite, and pick if you want to favorite the Event or the Channel. That’s it!"
+ },
+ {
+  "Instruction": "Hello, I need assistance with adding an event to my watchlist. Could you guide me through the process?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "How do I add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set."
+ },
+ {
+  "Instruction": "Can you assist me with the process of adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "To Favourite an Event the steps are as follows: open the media card, click the heart-shaped Favorite option, and choose whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Could you guide me on how to add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set."
+ },
+ {
+  "Instruction": "Can you tell me how to add an event to my watchlist?",
+  "Input": " ",
+  "Output": "To Favourite an Event the steps are as follows: open the media card, click the heart-shaped Favorite option, and choose whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "I am seeking formal assistance on the procedure for adding an event to my watchlist.",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, kindly open the media card and select the Favorite option indicated by a heart symbol. You will then need to decide whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "I need urgent help with adding an event to my watchlist. What steps should I follow?",
+  "Input": " ",
+  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set."
+ },
+ {
+  "Instruction": "I'm having trouble with adding an event to my watchlist. Can you provide technical support?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "I need instructions on how to add an event to my watchlist.",
+  "Input": " ",
+  "Output": "To Favourite an Event the steps are as follows: open the media card, click the heart-shaped Favorite option, and choose whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Could you confirm the procedure for adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "How do I go about adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set."
+ },
+ {
+  "Instruction": "I need some clarification on how to add an event to my watchlist. Can you help?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "What options do I have for adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Is there any help documentation available on how to add an event to my watchlist?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I'm a bit confused about how to add an event to my watchlist. Can you explain?",
+  "Input": " ",
+  "Output": "To Favourite an Event the steps are as follows: open the media card, click the heart-shaped Favorite option, and choose whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "I need immediate assistance with adding an event to my watchlist. What should I do?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "Could you assist me with the steps to add an event to my watchlist or favorites?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Can you confirm if support is available to help me with adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. If you have doubts, please contact X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I understand there might be a specific process for adding an event to my watchlist. Could you provide details?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "What are the support channels available for assistance with adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set. For more information, contact X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "Could you provide step-by-step guidance on how to add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "I'm having trouble figuring out how to add an event to my watchlist. Can someone help?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "I understand it’s my responsibility to add this event to my watchlist. Can you guide me through the process?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "If the usual method for adding an event to my watchlist isn't working, what alternative solutions are available?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "I need timely assistance with adding an event to my watchlist. Can you help as soon as possible?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "I want to ensure I understand how to add an event to my watchlist correctly. Can you provide detailed instructions?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Can you confirm the correct way to add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "I need help with adding an event to my watchlist. What should I do?",
+  "Input": " ",
+  "Output": "Just open up the media card, hit the heart icon to favorite, and pick if you want to favorite the Event or the Channel. That’s it!"
+ },
+ {
+  "Instruction": "Can you provide detailed instructions on how to add an event to my watchlist or favorites?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "In case of an emergency, how can I quickly add an event to my watchlist?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "Can you provide the contact information for support related to adding an event to my watchlist?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "Is there a user guide or manual for adding an event to my watchlist or favorites?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "I’m experiencing technical difficulties with adding an event to my watchlist. Can you assist?",
+  "Input": " ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ },
+ {
+  "Instruction": "What is the recommended way to add an event to my watchlist or favorites for the best experience?",
+  "Input": " ",
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set."
+ },
+ {
+  "Instruction": "What is the process for adding an event to my watchlist or favorites?",
+  "Input": "  ",
+  "Output": "Please follow these steps. To add an Event to your Favorites, access the media card and click the Favorite option, which is indicated by a heart icon. Then select whether to favorite the Event or the Channel."
+ }
+],
+"How to set parental lock":[
+ {
+  "Instruction": "Could you please let me know how I can set a parental lock for events?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "How can I set a parental lock for events?",
+  "Input": " ",
+  "Output": "To enable Parental Controls, please access Settings, select Parental Controls, and activate it by turning on the Enable Parental Controls option. Enter the PIN, then proceed to Allowed Contents to select your preferred rating."
+ },
+ {
+  "Instruction": "I would like to request information on how to set a parental lock for events.",
+  "Input": " ",
+  "Output": "Please proceed to Settings and select Parental Controls. Enable the Parental Controls option by turning it on. Enter the PIN when prompted, then go to Allowed Contents and choose the appropriate rating for your preferences."
+ },
+ {
+  "Instruction": "What are the steps or tools required to set a parental lock for events?",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating."
+ },
+ {
+  "Instruction": "Hey, how do I set up a parental lock for events?",
+  "Input": " ",
+  "Output": "Just head over to Settings, find Parental Controls, and switch it on. Enter your PIN, then go to Allowed Contents and pick the rating you want."
+ },
+ {
+  "Instruction": "Hello, I need assistance with setting a parental lock for events. Could you guide me through the process?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "How do I set a parental lock for events?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, navigate to Settings, select Parental Controls, and activate it by turning on Enable Parental Controls. Enter the PIN, then go to Allowed Contents and choose the content rating you need."
+ },
+ {
+  "Instruction": "Can you assist me with setting a parental lock for events?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer."
+ },
+ {
+  "Instruction": "Could you guide me on how to set a parental lock for events?",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating."
+ },
+ {
+  "Instruction": "Can you tell me how to set a parental lock for events?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "I am seeking formal assistance on the procedure for setting a parental lock for events.",
+  "Input": " ",
+  "Output": "To enable Parental Controls, please access Settings, select Parental Controls, and activate it by turning on the Enable Parental Controls option. Enter the PIN, then proceed to Allowed Contents to select your preferred rating."
+ },
+ {
+  "Instruction": "I need urgent help with setting a parental lock for events. What steps should I follow?",
+  "Input": " ",
+  "Output": "Just head over to Settings, find Parental Controls, and switch it on. Enter your PIN, then go to Allowed Contents and pick the rating you want."
+ },
+ {
+  "Instruction": "I'm having trouble with setting a parental lock for events. Can you provide technical support?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, navigate to Settings, select Parental Controls, and activate it by turning on Enable Parental Controls. Enter the PIN, then go to Allowed Contents and choose the content rating you need."
+ },
+ {
+  "Instruction": "I need instructions on how to set a parental lock for events.",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating."
+ },
+ {
+  "Instruction": "Could you confirm the procedure for setting a parental lock for events?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "If I need to set my parental lock settings, how do I go about it?",
+  "Input": " ",
+  "Output": "Just head over to Settings, find Parental Controls, and switch it on. Enter your PIN, then go to Allowed Contents and pick the rating you want."
+ },
+ {
+  "Instruction": "I need some clarification on how to set a parental lock for events. Can you help?",
+  "Input": " ",
+  "Output": "To enable Parental Controls, please access Settings, select Parental Controls, and activate it by turning on the Enable Parental Controls option. Enter the PIN, then proceed to Allowed Contents to select your preferred rating."
+ },
+ {
+  "Instruction": "What options do I have for setting a parental lock for events?",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating."
+ },
+ {
+  "Instruction": "Can you inform me about the policy for setting a parental lock for events?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, navigate to Settings, select Parental Controls, and activate it by turning on Enable Parental Controls. Enter the PIN, then go to Allowed Contents and choose the content rating you need."
+ },
+ {
+  "Instruction": "Is there any help documentation available on how to set a parental lock for events?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference. If you have any further queries, please reach out to our support group at X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I'm a bit confused about how to set a parental lock for events. Can you explain?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "I need immediate assistance with setting a parental lock for events. What should I do?",
+  "Input": " ",
+  "Output": "Please proceed to Settings and select Parental Controls. Enable the Parental Controls option by turning it on. Enter the PIN when prompted, then go to Allowed Contents and choose the appropriate rating for your preferences."
+ },
+ {
+  "Instruction": "Could you help me with setting up a parental lock for events?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer."
+ },
+ {
+  "Instruction": "Can you confirm if support is available to help me with setting a parental lock for events?",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating. For any further support, please contact our support team at X-XXX-XXX-XXXX."
+ },
+ {
+  "Instruction": "I understand there might be a specific process for setting a parental lock for events. Could you provide details?",
+  "Input": " ",
+  "Output": "Please proceed to Settings and select Parental Controls. Enable the Parental Controls option by turning it on. Enter the PIN when prompted, then go to Allowed Contents and choose the appropriate rating for your preferences."
+ },
+ {
+  "Instruction": "Could you provide step-by-step guidance on how to set a parental lock for events?",
+  "Input": " ",
+  "Output": "To enable Parental Controls, please access Settings, select Parental Controls, and activate it by turning on the Enable Parental Controls option. Enter the PIN, then proceed to Allowed Contents to select your preferred rating."
+ },
+ {
+  "Instruction": "Is there a user guide or manual for setting a parental lock for events?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "I'm having trouble figuring out how to set a parental lock for events. Can someone help?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "I understand it’s my responsibility to set a parental lock for these events. Can you guide me through the process?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer."
+ },
+ {
+  "Instruction": "If the usual method for setting a parental lock isn't working, what alternative solutions are available?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "I need timely assistance with setting a parental lock for events. Can you help as soon as possible?",
+  "Input": " ",
+  "Output": "Please proceed to Settings and select Parental Controls. Enable the Parental Controls option by turning it on. Enter the PIN when prompted, then go to Allowed Contents and choose the appropriate rating for your preferences."
+ },
+ {
+  "Instruction": "I want to ensure I understand how to set a parental lock for events correctly. Can you provide detailed instructions?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ },
+ {
+  "Instruction": "Can you confirm the correct way to set a parental lock for events?",
+  "Input": " ",
+  "Output": "To enable Parental Controls, please access Settings, select Parental Controls, and activate it by turning on the Enable Parental Controls option. Enter the PIN, then proceed to Allowed Contents to select your preferred rating."
+ },
+ {
+  "Instruction": "I need help with setting a parental lock for events. What should I do?",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating."
+ },
+ {
+  "Instruction": "How can users like me set up a parental lock for events?",
+  "Input": " ",
+  "Output": "Please proceed to Settings and select Parental Controls. Enable the Parental Controls option by turning it on. Enter the PIN when prompted, then go to Allowed Contents and choose the appropriate rating for your preferences."
+ },
+ {
+  "Instruction": "Can you provide the contact information for support related to setting a parental lock for events?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at X-XXX-XXX-XXXX"
+ },
+ {
+  "Instruction": "What is the recommended way to set a parental lock for events for the best experience?",
+  "Input": " ",
+  "Output": "To enable Parental Controls, please access Settings, select Parental Controls, and activate it by turning on the Enable Parental Controls option. Enter the PIN, then proceed to Allowed Contents to select your preferred rating."
+ },
+ {
+  "Instruction": "I'm interested in setting a parental lock for events. What are the general steps involved?",
+  "Input": " ",
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer."
+ },
+ {
+  "Instruction": "I’m experiencing technical difficulties with setting a parental lock for events. Can you assist?",
+  "Input": " ",
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating."
+ },
+ {
+  "Instruction": "What parental control options are available for events, and how do I configure them?",
+  "Input": " ",
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference."
+ }
+]
+}
