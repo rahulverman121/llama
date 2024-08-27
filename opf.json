@@ -566,7 +566,7 @@
  {
   "Instruction": "I appear to have forgotten my password. Would you be able to assist me in resetting it?",
   "Input": " ",
-  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+  "Output": "For immediate assistance, please contact our support team at Y-YYY-YYY-YYYY. They can guide you through resetting your password."
  },
  {
   "Instruction": "I urgently need to reset my password. Could you provide guidance on how to proceed?",
@@ -631,7 +631,7 @@
  {
   "Instruction": "Is there someone available who can assist me with resetting my password?",
   "Input": " ",
-  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+  "Output": "For immediate assistance, please contact our support team at Y-YYY-YYY-YYYY. They can guide you through resetting your password."
  },
  {
   "Instruction": "I've forgotten my password. Can you help me regain access?",
@@ -646,7 +646,7 @@
  {
   "Instruction": "What are the available channels to get assistance with resetting my password?",
   "Input": " ",
-  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+  "Output": "For immediate assistance, please contact our support team at Y-YYY-YYY-YYYY. They can guide you through resetting your password."
  },
  {
   "Instruction": "Could you walk me through the steps to reset my password?",
@@ -661,7 +661,7 @@
  {
   "Instruction": "Are there self-service options available for resetting my password?",
   "Input": " ",
-  "Output": "Please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+  "Output": "Please contact our support team at Y-YYY-YYY-YYYY. They can guide you through resetting your password."
  },
  {
   "Instruction": "I can't access my account because I forgot my password. Can you assist me?",
@@ -676,7 +676,7 @@
  {
   "Instruction": "Besides resetting my password, are there other ways to access my account?",
   "Input": " ",
-  "Output": "Please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+  "Output": "Please contact our support team at Y-YYY-YYY-YYYY. They can guide you through resetting your password."
  },
  {
   "Instruction": "I need immediate assistance with resetting my password. Could you help?",
@@ -711,7 +711,7 @@
  {
   "Instruction": "Who should I contact for help with resetting my password?",
   "Input": " ",
-  "Output": "For immediate assistance, please contact our support team at X-XXX-XXX-XXXX. They can guide you through resetting your password."
+  "Output": "For immediate assistance, please contact our support team at Y-YYY-YYY-YYYY. They can guide you through resetting your password."
  },
  {
   "Instruction": "Could you explain the process for resetting a forgotten password?",
@@ -838,7 +838,7 @@
  {
   "Instructions": "Is there any help documentation available on how to record an event?",
   "Input": " ",
-  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at Y-YYY-YYY-YYYY."
  },
  {
   "Instructions": "I'm a bit confused about how to record an event. Can you explain?",
@@ -863,7 +863,7 @@
  {
   "Instructions": "What are the support channels available for assistance with recording an event?",
   "Input": " ",
-  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at Y-YYY-YYY-YYYY."
  },
  {
   "Instructions": "Could you provide step-by-step guidance on how to record an event?",
@@ -893,7 +893,7 @@
  {
   "Instructions": "If the usual method for recording an event isn't working, what alternative solutions are available?",
   "Input": " ",
-  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes. If you still have doubts, please contact X-XXX-XXX-XXXX"
+  "Output": "Please follow these steps to Record the Event. Kindly open the media card associated with it. Click on the record option and select whether you wish to record just this episode, the entire series, or all new episodes. If you still have doubts, please contact Y-YYY-YYY-YYYY"
  },
  {
   "Instructions": "I need timely assistance with recording an event. Can you help as soon as possible?",
@@ -918,12 +918,12 @@
  {
   "Instructions": "Where can I find a user guide or manual for recording an event?",
   "Input": " ",
-  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at Y-YYY-YYY-YYYY."
  },
  {
   "Instructions": "Can you provide the contact information for support related to recording an event?",
   "Input": " ",
-  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at X-XXX-XXX-XXXX."
+  "Output": "To record an Event, please follow these steps: Open the media card for the Event, then select the record option. You can choose to record only this episode, the entire series, or all new episodes. For all further queries contact our support team at Y-YYY-YYY-YYYY."
  },
  {
   "Instructions": "What is the recommended way to record an event for the best user experience?",
@@ -955,222 +955,222 @@
  {
   "Instruction": "Could you please let me know how I can subscribe to a channel?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "How can I subscribe to a channel?",
   "Input": " ",
-  "Output": "To subscribe to the channel, contact X-XXX-XXX-XXXX."
+  "Output": "To subscribe to the channel, contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I would like to request information on how to subscribe to a channel",
   "Input": " ",
-  "Output": "To subscribe to the channel, please reach out to X-XXX-XXX-XXXX for detailed instructions."
+  "Output": "To subscribe to the channel, please reach out to Y-YYY-YYY-YYYY for detailed instructions."
  },
  {
   "Instruction": "What are the steps or requirements for subscribing to a channel?",
   "Input": " ",
-  "Output": "For technical assistance with subscribing to the channel, please contact X-XXX-XXX-XXXX."
+  "Output": "For technical assistance with subscribing to the channel, please contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "Hey, how do I subscribe to a channel?",
   "Input": " ",
-  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+  "Output": "Just call Y-YYY-YYY-YYYY to subscribe to the channel."
  },
  {
   "Instruction": "Hello, I need assistance with subscribing to a channel. Could you guide me through the process?",
   "Input": " ",
-  "Output": "To subscribe to the channel, please contact our support team at X-XXX-XXX-XXXX for help."
+  "Output": "To subscribe to the channel, please contact our support team at Y-YYY-YYY-YYYY for help."
  },
  {
   "Instruction": "How do I subscribe to a channel?",
   "Input": " ",
-  "Output": "Contact X-XXX-XXX-XXXX to subscribe to the channel."
+  "Output": "Contact Y-YYY-YYY-YYYY to subscribe to the channel."
  },
  {
   "Instruction": "Can you assist me with the process of subscribing to a channel?",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "Could you guide me on how to subscribe to a channel?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "Can you tell me how to subscribe to a channel?",
   "Input": " ",
-  "Output": "Call X-XXX-XXX-XXXX to get subscribed to the channel."
+  "Output": "Call Y-YYY-YYY-YYYY to get subscribed to the channel."
  },
  {
   "Instruction": "I am seeking assistance on the procedure for subscribing to a channel.",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "I need urgent help with subscribing to a channel. What steps should I follow?",
   "Input": " ",
-  "Output": "For urgent help with subscribing to the channel, please contact X-XXX-XXX-XXXX immediately."
+  "Output": "For urgent help with subscribing to the channel, please contact Y-YYY-YYY-YYYY immediately."
  },
  {
   "Instruction": "I'm having trouble with subscribing to a channel. Can you provide technical support?",
   "Input": " ",
-  "Output": "To get technical support for subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "To get technical support for subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I need instructions on how to subscribe to a channel.",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "Could you confirm the procedure for subscribing to a channel?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "Instruct as to how I can subscribe to a channel.",
   "Input": " ",
-  "Output": "Contact X-XXX-XXX-XXXX to receive instructions on how to subscribe to the channel."
+  "Output": "Contact Y-YYY-YYY-YYYY to receive instructions on how to subscribe to the channel."
  },
  {
   "Instruction": "I need some clarification on how to subscribe to a channel. Can you help?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "What options do I have for subscribing to a channel?",
   "Input": " ",
-  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+  "Output": "Just call Y-YYY-YYY-YYYY to subscribe to the channel."
  },
  {
   "Instruction": "Can you inform me about the policy for subscribing to a channel?",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "Is there any help documentation available on how to subscribe to a channel?",
   "Input": " ",
-  "Output": "If you need help documentation for subscribing to the channel, please contact X-XXX-XXX-XXXX."
+  "Output": "If you need help documentation for subscribing to the channel, please contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I'm a bit confused about how to subscribe to a channel. Can you explain?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "I need immediate assistance with subscribing to a channel. What should I do?",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "Could you help me with the process of subscribing to a channel?",
   "Input": " ",
-  "Output": "For customer service assistance with subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For customer service assistance with subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "Can you confirm if support is available to help me with subscribing to a channel?",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "I understand there might be a specific process for subscribing to a channel. Could you provide details?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "Can I get help with subscribing to a channel through chat or email?",
   "Input": " ",
-  "Output": "To know more about subscribing to a channel through chat, please contact X-XXX-XXX-XXXX"
+  "Output": "To know more about subscribing to a channel through chat, please contact Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "What are the support channels available for assistance with subscribing to a channel?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "Could you provide step-by-step guidance on how to subscribe to a channel?",
   "Input": " ",
-  "Output": "Contact X-XXX-XXX-XXXX to subscribe to the channels of your choice."
+  "Output": "Contact Y-YYY-YYY-YYYY to subscribe to the channels of your choice."
  },
  {
   "Instruction": "Is there a user guide or manual for subscribing to a channel?",
   "Input": " ",
-  "Output": "To find a user guide for subscribing to the channel, contact X-XXX-XXX-XXXX."
+  "Output": "To find a user guide for subscribing to the channel, contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "Are there any self-service options available for subscribing to a channel?",
   "Input": " ",
-  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+  "Output": "Just call Y-YYY-YYY-YYYY to subscribe to the channel."
  },
  {
   "Instruction": "I'm having trouble figuring out how to subscribe to a channel. Can someone help?",
   "Input": " ",
-  "Output": "If you’re having trouble with subscribing to the channel, please contact X-XXX-XXX-XXXX for assistance."
+  "Output": "If you’re having trouble with subscribing to the channel, please contact Y-YYY-YYY-YYYY for assistance."
  },
  {
   "Instruction": "I understand it’s my responsibility to subscribe to this channel. Can you guide me through the process?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "If the usual method for subscribing to a channel isn't working, what alternative solutions are available?",
   "Input": " ",
-  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+  "Output": "Just call Y-YYY-YYY-YYYY to subscribe to the channel."
  },
  {
   "Instruction": "I need timely assistance with subscribing to a channel. Can you help as soon as possible?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I want to ensure I understand how to subscribe to a channel correctly. Can you provide detailed instructions?",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "How do I subscribe to a channel?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "I need help with subscribing to a channel. What should I do?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "Is there a tutorial available on how to subscribe to a channel?",
   "Input": " ",
-  "Output": "Just call X-XXX-XXX-XXXX to subscribe to the channel."
+  "Output": "Just call Y-YYY-YYY-YYYY to subscribe to the channel."
  },
  {
   "Instruction": "Can you provide detailed instructions on how to subscribe to a channel?",
   "Input": " ",
-  "Output": "To subscribe to the channel, please contact our support team at X-XXX-XXX-XXXX. "
+  "Output": "To subscribe to the channel, please contact our support team at Y-YYY-YYY-YYYY. "
  },
  {
   "Instruction": "Can you provide the contact information for support related to subscribing to a channel?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "What is the recommended way to subscribe to a channel for the best experience?",
   "Input": " ",
-  "Output": "Please contact X-XXX-XXX-XXXX for assistance with subscribing to the channel."
+  "Output": "Please contact Y-YYY-YYY-YYYY for assistance with subscribing to the channel."
  },
  {
   "Instruction": "What features are available for subscribing to a channel, and how do I use them?",
   "Input": " ",
-  "Output": "To subscribe to the channel, contact X-XXX-XXX-XXXX."
+  "Output": "To subscribe to the channel, contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I’m experiencing technical difficulties with subscribing to a channel. Can you assist?",
   "Input": " ",
-  "Output": "To subscribe to a channel, please contact X-XXX-XXX-XXXX. Thank you!"
+  "Output": "To subscribe to a channel, please contact Y-YYY-YYY-YYYY. Thank you!"
  },
  {
   "Instruction": "Can you clarify the workflow for subscribing to a channel?",
   "Input": " ",
-  "Output": "For guidance on subscribing to the channel, please reach out to X-XXX-XXX-XXXX."
+  "Output": "For guidance on subscribing to the channel, please reach out to Y-YYY-YYY-YYYY."
  }
 ],
 "How to add event to watchlist":[
@@ -1267,7 +1267,7 @@
  {
   "Instruction": "Is there any help documentation available on how to add an event to my watchlist?",
   "Input": " ",
-  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX."
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I'm a bit confused about how to add an event to my watchlist. Can you explain?",
@@ -1287,7 +1287,7 @@
  {
   "Instruction": "Can you confirm if support is available to help me with adding an event to my watchlist?",
   "Input": " ",
-  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. If you have doubts, please contact X-XXX-XXX-XXXX."
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. If you have doubts, please contact Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I understand there might be a specific process for adding an event to my watchlist. Could you provide details?",
@@ -1297,7 +1297,7 @@
  {
   "Instruction": "What are the support channels available for assistance with adding an event to my watchlist?",
   "Input": " ",
-  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set. For more information, contact X-XXX-XXX-XXXX"
+  "Output": "Please open the media card and select the Favorite option represented by a heart symbol. You will need to choose whether to favorite the Event or the Channel, and then you will be all set. For more information, contact Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "Could you provide step-by-step guidance on how to add an event to my watchlist?",
@@ -1317,7 +1317,7 @@
  {
   "Instruction": "If the usual method for adding an event to my watchlist isn't working, what alternative solutions are available?",
   "Input": " ",
-  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX"
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "I need timely assistance with adding an event to my watchlist. Can you help as soon as possible?",
@@ -1352,12 +1352,12 @@
  {
   "Instruction": "Can you provide the contact information for support related to adding an event to my watchlist?",
   "Input": " ",
-  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX"
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "Is there a user guide or manual for adding an event to my watchlist or favorites?",
   "Input": " ",
-  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact X-XXX-XXX-XXXX"
+  "Output": "To add an Event to your Favorites, please open the media card and click on the heart-shaped Favorite option. You can choose to favorite either the Event or the Channel, and you’ll be all set. For more information, contact Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "I’m experiencing technical difficulties with adding an event to my watchlist. Can you assist?",
@@ -1474,7 +1474,7 @@
  {
   "Instruction": "Is there any help documentation available on how to set a parental lock for events?",
   "Input": " ",
-  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference. If you have any further queries, please reach out to our support group at X-XXX-XXX-XXXX."
+  "Output": "Please go to Settings, click on Parental Controls, and turn on the Enable Parental Controls option? After that, enter the PIN, then navigate to Allowed Contents and select the rating that suits your preference. If you have any further queries, please reach out to our support group at Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I'm a bit confused about how to set a parental lock for events. Can you explain?",
@@ -1494,7 +1494,7 @@
  {
   "Instruction": "Can you confirm if support is available to help me with setting a parental lock for events?",
   "Input": " ",
-  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating. For any further support, please contact our support team at X-XXX-XXX-XXXX."
+  "Output": "To configure Parental Controls, access Settings and click on Parental Controls. Enable this feature by turning it on, enter the required PIN, then navigate to Allowed Contents and select your desired content rating. For any further support, please contact our support team at Y-YYY-YYY-YYYY."
  },
  {
   "Instruction": "I understand there might be a specific process for setting a parental lock for events. Could you provide details?",
@@ -1509,7 +1509,7 @@
  {
   "Instruction": "Is there a user guide or manual for setting a parental lock for events?",
   "Input": " ",
-  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at X-XXX-XXX-XXXX"
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "I'm having trouble figuring out how to set a parental lock for events. Can someone help?",
@@ -1524,7 +1524,7 @@
  {
   "Instruction": "If the usual method for setting a parental lock isn't working, what alternative solutions are available?",
   "Input": " ",
-  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at X-XXX-XXX-XXXX"
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "I need timely assistance with setting a parental lock for events. Can you help as soon as possible?",
@@ -1554,7 +1554,7 @@
  {
   "Instruction": "Can you provide the contact information for support related to setting a parental lock for events?",
   "Input": " ",
-  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at X-XXX-XXX-XXXX"
+  "Output": "To set up Parental Controls, please go to Settings and select Parental Controls. Turn on Enable Parental Controls, enter your PIN, then go to Allowed Contents and choose the rating you prefer. You can also contact our support team at Y-YYY-YYY-YYYY"
  },
  {
   "Instruction": "What is the recommended way to set a parental lock for events for the best experience?",
