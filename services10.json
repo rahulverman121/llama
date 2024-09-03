@@ -1,0 +1,6419 @@
+{
+  "version": "20240903173357",
+  "services": [
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_ET24",
+        "id": "Claro_ET24",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "ET24",
+        "longName": "EL TIEMPO TV",
+        "tvChannel": 109,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9",
+          "NAGRA-GOOG-TEST"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Nacionales"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0109.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "162;182;202;203;223;NAGRA-GOOG-TEST;9;12",
+        "InHomeBlockingRequired": "true",
+        "npvrSupportDisablement": "true",
+        "Description": "EL TIEMPO TV",
+        "ShortName": "EL TIEMPO TV"
+      },
+      "technical": {
+        "_id": "Claro_ET24-TC-1",
+        "id": "Claro_ET24-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_ET24",
+        "companyId": "Claro",
+        "stationId": "ET24-TC-1",
+        "longName": "EL TIEMPO TV",
+        "tvChannel": 109,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30059",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=TIEMPO_TV,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "TIEMPO_TV"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=TIEMPO_TV,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "dynamicRange": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0109.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "ProductRefs": "162;182;202;203;223;NAGRA-GOOG-TEST",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TIEMPO_TV)/manifest.mpd",
+        "Description": "EL TIEMPO TV",
+        "productRefs": [
+          "102",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9",
+          "NAGRA-GOOG-TEST"
+        ],
+        "products": [
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "NAGRA-GOOG-TEST",
+            "id": "NAGRA-GOOG-TEST",
+            "startPurchase": 1663106400,
+            "endPurchase": 2231272799,
+            "price": {
+              "startPurchase": 1663106400,
+              "endPurchase": 2231272799,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1663106400,
+            "endValidity": 2231272799,
+            "type": "subscription",
+            "title": "NAGRA-GOOG-TEST",
+            "isFreemium": false,
+            "Title": "NAGRA-GOOG-TEST",
+            "Description": "NAGRA-GOOG-TEST"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_ET24",
+      "t": "Claro_ET24-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_CITYTV",
+        "id": "Claro_CITYTV",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "CITYTV",
+        "longName": "CITYTV",
+        "tvChannel": 112,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "46",
+          "47",
+          "9",
+          "Nagra_hybrid_test_1"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Nacionales"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0112.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "InHomeBlockingRequired": "false",
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "162;182;Nagra_hybrid_test_1;9;13;12",
+        "Description": "CITYTV"
+      },
+      "technical": {
+        "_id": "Claro_CITYTV-TC-1",
+        "id": "Claro_CITYTV-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2173246508,
+          "duration": 599616000
+        },
+        "mainChannelId": "Claro_CITYTV",
+        "companyId": "Claro",
+        "stationId": "CITYTV-TC-1",
+        "longName": "CITYTV",
+        "tvChannel": 112,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30030",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=CITY_TV,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "CITY_TV"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=CITY_TV,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "dynamicRange": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "46",
+          "47",
+          "9",
+          "Nagra_hybrid_test_1"
+        ],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0112.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CITY_TV)/manifest.mpd",
+        "npvrSupportDisablement": "false",
+        "ProductRefs": "162;182;Nagra_hybrid_test_1;47;102;46",
+        "Description": "CITYTV",
+        "products": [
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "Nagra_hybrid_test_1",
+            "id": "Nagra_hybrid_test_1",
+            "startPurchase": 1684904400,
+            "endPurchase": 2316315599,
+            "price": {
+              "startPurchase": 1684904400,
+              "endPurchase": 2316315599,
+              "currency": "USD",
+              "value": 1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1684904400,
+            "endValidity": 2316229199,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "Nagra_hybrid_test_1",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Nagra_hybrid_test_1",
+            "Title": "Nagra_hybrid_test_1"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_CITYTV",
+      "t": "Claro_CITYTV-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_ACTVCO",
+        "id": "Claro_ACTVCO",
+        "period": {
+          "start": 1677560400,
+          "end": 2335496399,
+          "duration": 657935999
+        },
+        "companyId": "Claro",
+        "stationId": "ACTVCO",
+        "longName": "ACTV",
+        "tvChannel": 114,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Variedades"
+        ],
+        "PromoImages": [],
+        "Regions": [],
+        "InHomeBlockingRequired": "false",
+        "ProductRefs": "102;162;182;202;203;46;47;223;9;13;12",
+        "Description": "ACTV",
+        "ShortName": "ACTV"
+      },
+      "technical": {
+        "_id": "1677616265943",
+        "id": "1677616265943",
+        "period": {
+          "start": 1677560400,
+          "end": 2214190799,
+          "duration": 536630399
+        },
+        "mainChannelId": "Claro_ACTVCO",
+        "companyId": "GLOBAL",
+        "stationId": "1677616265943",
+        "longName": "ACTV",
+        "tvChannel": 114,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30221",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=ACTV,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "ACTV"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=ACTV,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0114.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "102;162;182;202;203;46;47",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ACTV)/manifest.mpd",
+        "Description": "ACTV",
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_ACTVCO",
+      "t": "1677616265943",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_CANALDELCONGRESOCOLOMBIA",
+        "id": "Claro_CANALDELCONGRESOCOLOMBIA",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "CANALDELCONGRESOCOLOMBIA",
+        "longName": "CANAL CONGRESO",
+        "tvChannel": 124,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Nacionales"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0124.jpg"
+        ],
+        "Regions": [],
+        "InHomeBlockingRequired": "false",
+        "ProductRefs": "162;182;202;203;223;9;13;12",
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "Description": "CANAL CONGRESO"
+      },
+      "technical": {
+        "_id": "Claro_CANALDELCONGRESOCOLOMBIA-TC-1",
+        "id": "Claro_CANALDELCONGRESOCOLOMBIA-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2236404908,
+          "duration": 662774400
+        },
+        "mainChannelId": "Claro_CANALDELCONGRESOCOLOMBIA",
+        "companyId": "Claro",
+        "stationId": "CANALDELCONGRESOCOLOMBIA-TC-1",
+        "longName": "CANAL CONGRESO",
+        "tvChannel": 124,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30020",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=CONGRESO,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "CONGRESO"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=CONGRESO,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0124.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "ProductRefs": "162;182;202;203",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CONGRESO)/manifest.mpd",
+        "Description": "CANAL CONGRESO.",
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_CANALDELCONGRESOCOLOMBIA",
+      "t": "Claro_CANALDELCONGRESOCOLOMBIA-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_COSMOVISIONCOLOMBIA",
+        "id": "Claro_COSMOVISIONCOLOMBIA",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "COSMOVISIONCOLOMBIA",
+        "longName": "COSMOVISION",
+        "tvChannel": 125,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Nacionales"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0125.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "162;182;202;203;223;9;13;12",
+        "InHomeBlockingRequired": "false",
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "Description": "COSMOVISION"
+      },
+      "technical": {
+        "_id": "Claro_COSMOVISIONCOLOMBIA-TC-1",
+        "id": "Claro_COSMOVISIONCOLOMBIA-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2173246508,
+          "duration": 599616000
+        },
+        "mainChannelId": "Claro_COSMOVISIONCOLOMBIA",
+        "companyId": "Claro",
+        "stationId": "COSMOVISIONCOLOMBIA-TC-1",
+        "longName": "COSMOVISION",
+        "tvChannel": 125,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30039",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=COSMOVISION,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "COSMOVISION"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=COSMOVISION,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0125.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "ProductRefs": "162;182;202;203",
+        "ltcuSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(COSMOVISION)/manifest.mpd",
+        "Description": "COSMOVISION",
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_COSMOVISIONCOLOMBIA",
+      "t": "Claro_COSMOVISIONCOLOMBIA-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_ZOOMTVCOLOMBIA",
+        "id": "Claro_ZOOMTVCOLOMBIA",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "ZOOMTVCOLOMBIA",
+        "longName": "ZOOM",
+        "tvChannel": 126,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Nacionales"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0126.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "162;182;202;203;47;223;9;13;12",
+        "InHomeBlockingRequired": "false",
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "Description": "ZOOM"
+      },
+      "technical": {
+        "_id": "Claro_ZOOMTVCOLOMBIA-TC-1",
+        "id": "Claro_ZOOMTVCOLOMBIA-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_ZOOMTVCOLOMBIA",
+        "companyId": "Claro",
+        "stationId": "ZOOMTVCOLOMBIA-TC-1",
+        "longName": "ZOOM",
+        "tvChannel": 126,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30171",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=ZOOM,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "ZOOM"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=ZOOM,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0126.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "162;182;202;203;47",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ZOOM)/manifest.mpd",
+        "Description": "ZOOM",
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_ZOOMTVCOLOMBIA",
+      "t": "Claro_ZOOMTVCOLOMBIA-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_CMUSICAA",
+        "id": "Claro_CMUSICAA",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "CMUSICAA",
+        "longName": "RADIOLA TV",
+        "tvChannel": 152,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "46",
+          "47",
+          "9",
+          "Nagra_hybrid_test_1"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0152.jpg"
+        ],
+        "Regions": [],
+        "InHomeBlockingRequired": "false",
+        "ProductRefs": "162;182;202;203;47;Nagra_hybrid_test_1;9;13;12",
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "Description": "RADIOLA TV"
+      },
+      "technical": {
+        "_id": "Claro_CMUSICAA-TC-1",
+        "id": "Claro_CMUSICAA-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_CMUSICAA",
+        "companyId": "Claro",
+        "stationId": "CMUSICAA-TC-1",
+        "longName": "RADIOLA TV",
+        "tvChannel": 152,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30110",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=VALLENATO,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "VALLENATO"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=VALLENATO,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0152.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "162;182;202;203;47;Nagra_hybrid_test_1",
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(VALLENATO)/manifest.mpd",
+        "Description": "RADIOLA TV",
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "46",
+          "47",
+          "9",
+          "Nagra_hybrid_test_1"
+        ],
+        "products": [
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "Nagra_hybrid_test_1",
+            "id": "Nagra_hybrid_test_1",
+            "startPurchase": 1684904400,
+            "endPurchase": 2316315599,
+            "price": {
+              "startPurchase": 1684904400,
+              "endPurchase": 2316315599,
+              "currency": "USD",
+              "value": 1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1684904400,
+            "endValidity": 2316229199,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "Nagra_hybrid_test_1",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Nagra_hybrid_test_1",
+            "Title": "Nagra_hybrid_test_1"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_CMUSICAA",
+      "t": "Claro_CMUSICAA-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_CMUSICAB",
+        "id": "Claro_CMUSICAB",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "CMUSICAB",
+        "longName": "SIN LÍMITES",
+        "tvChannel": 153,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9",
+          "NAGRA-GOOG-TEST"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0153.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "162;182;202;203;47;NAGRA-GOOG-TEST;223;9;13;12",
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "InHomeBlockingRequired": "false",
+        "Description": "SIN LÍMITES"
+      },
+      "technical": {
+        "_id": "Claro_CMUSICAB-TC-1",
+        "id": "Claro_CMUSICAB-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_CMUSICAB",
+        "companyId": "Claro",
+        "stationId": "CMUSICAB-TC-1",
+        "longName": "SIN LÍMITES",
+        "tvChannel": 153,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30136",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=K_MUSIC,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "K_MUSIC"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=K_MUSIC,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0153.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "162;182;202;203;47;NAGRA-GOOG-TEST",
+        "npvrSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(K_MUSIC)/manifest.mpd",
+        "Description": "SIN LÍMITES",
+        "productRefs": [
+          "102",
+          "12",
+          "13",
+          "162",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9",
+          "NAGRA-GOOG-TEST"
+        ],
+        "products": [
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "NAGRA-GOOG-TEST",
+            "id": "NAGRA-GOOG-TEST",
+            "startPurchase": 1663106400,
+            "endPurchase": 2231272799,
+            "price": {
+              "startPurchase": 1663106400,
+              "endPurchase": 2231272799,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1663106400,
+            "endValidity": 2231272799,
+            "type": "subscription",
+            "title": "NAGRA-GOOG-TEST",
+            "isFreemium": false,
+            "Title": "NAGRA-GOOG-TEST",
+            "Description": "NAGRA-GOOG-TEST"
+          },
+          {
+            "_id": "102",
+            "id": "102",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2264277540,
+            "type": "subscription",
+            "title": "Prod - Claro Go Standar",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Prod - Claro Go Standar",
+            "Title": "Prod - Claro Go Standar"
+          },
+          {
+            "_id": "162",
+            "id": "162",
+            "startPurchase": 1667538000,
+            "endPurchase": 2235704399,
+            "price": {
+              "startPurchase": 1667538000,
+              "endPurchase": 2235704399,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1667538000,
+            "endValidity": 2235704399,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "PROD ATV TV DIGITAL MINIMO",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "PROD ATV TV DIGITAL MINIMO"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_CMUSICAB",
+      "t": "Claro_CMUSICAB-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_HTV",
+        "id": "Claro_HTV",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "HTV",
+        "longName": "HTV",
+        "tvChannel": 155,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "47",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0155.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "9;13;12",
+        "InHomeBlockingRequired": "false",
+        "npvrSupportDisablement": "true",
+        "validateByOnNet": "false",
+        "geoFilteringBillAddrCountryWhiteList": "false",
+        "ltcuSupportDisablement": "true",
+        "Description": "HTV"
+      },
+      "technical": {
+        "_id": "Claro_HTV-TC-1",
+        "id": "Claro_HTV-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_HTV",
+        "companyId": "Claro",
+        "stationId": "HTV-TC-1",
+        "longName": "HTV",
+        "tvChannel": 155,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30103",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=HTV,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "HTV"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=HTV,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0155.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(HTV)/manifest.mpd",
+        "Description": "HTV",
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "47",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_HTV",
+      "t": "Claro_HTV-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_MTVHITS",
+        "id": "Claro_MTVHITS",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "MTVHITS",
+        "longName": "MTV HITS",
+        "tvChannel": 158,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "9",
+          "NAGRA-GOOG-TEST"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0158.jpg"
+        ],
+        "Regions": [],
+        "geoFilteringBillAddrCountryWhiteList": "false",
+        "npvrSupportDisablement": "true",
+        "validateByOnNet": "false",
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "182;202;203;NAGRA-GOOG-TEST;223;9;13;12",
+        "InHomeBlockingRequired": "false",
+        "Description": "MTV HITS"
+      },
+      "technical": {
+        "_id": "Claro_MTVHITS-TC-1",
+        "id": "Claro_MTVHITS-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2173246508,
+          "duration": 599616000
+        },
+        "mainChannelId": "Claro_MTVHITS",
+        "companyId": "Claro",
+        "stationId": "MTVHITS-TC-1",
+        "longName": "MTV HITS",
+        "tvChannel": 158,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "STB",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30112",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=MTV_HITS,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "MTV_HITS"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=MTV_HITS,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0158.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "182;202;203;NAGRA-GOOG-TEST",
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(MTV_HITS)/manifest.mpd",
+        "Description": "MTV HITS",
+        "productRefs": [
+          "12",
+          "13",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "9",
+          "NAGRA-GOOG-TEST"
+        ],
+        "products": [
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "NAGRA-GOOG-TEST",
+            "id": "NAGRA-GOOG-TEST",
+            "startPurchase": 1663106400,
+            "endPurchase": 2231272799,
+            "price": {
+              "startPurchase": 1663106400,
+              "endPurchase": 2231272799,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1663106400,
+            "endValidity": 2231272799,
+            "type": "subscription",
+            "title": "NAGRA-GOOG-TEST",
+            "isFreemium": false,
+            "Title": "NAGRA-GOOG-TEST",
+            "Description": "NAGRA-GOOG-TEST"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_MTVHITS",
+      "t": "Claro_MTVHITS-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_MIGENTETV",
+        "id": "Claro_MIGENTETV",
+        "period": {
+          "start": 1630645200,
+          "end": 2167534799,
+          "duration": 536889599
+        },
+        "companyId": "Claro",
+        "stationId": "MIGENTETV",
+        "longName": "MI GENTE",
+        "tvChannel": 159,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "47",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [],
+        "Regions": [],
+        "InHomeBlockingRequired": "false",
+        "ProductRefs": "9;13;12",
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "false",
+        "Description": "MI GENTE",
+        "ShortName": "MI GENTE"
+      },
+      "technical": {
+        "_id": "1630953992227",
+        "id": "1630953992227",
+        "period": {
+          "start": 1630818000,
+          "end": 2198898000,
+          "duration": 568080000
+        },
+        "mainChannelId": "Claro_MIGENTETV",
+        "companyId": "GLOBAL",
+        "stationId": "1630953992227",
+        "longName": "MI GENTE",
+        "tvChannel": 159,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30172",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=MIGENTE,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "MIGENTE"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=MIGENTE,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0159.jpg"
+        ],
+        "Regions": [],
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(MIGENTE)/manifest.mpd",
+        "Description": "mi gente",
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "47",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_MIGENTETV",
+      "t": "1630953992227",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_VH1CLASSIC",
+        "id": "Claro_VH1CLASSIC",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "VH1CLASSIC",
+        "longName": "MTV 80`S",
+        "tvChannel": 164,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0164.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "ProductRefs": "9;13;12",
+        "InHomeBlockingRequired": "false",
+        "ltcuSupportDisablement": "true",
+        "Description": "MTV 80`S"
+      },
+      "technical": {
+        "_id": "Claro_VH1CLASSIC-TC-1",
+        "id": "Claro_VH1CLASSIC-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_VH1CLASSIC",
+        "companyId": "Claro",
+        "stationId": "VH1CLASSIC-TC-1",
+        "longName": "MTV 80`S",
+        "tvChannel": 164,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30166",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=VH1_CLASSIC,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "VH1_CLASSIC"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=VH1_CLASSIC,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0164.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(VH1_CLASSIC)/manifest.mpd",
+        "Description": "MTV 80`S",
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_VH1CLASSIC",
+      "t": "Claro_VH1CLASSIC-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_TELEHIT",
+        "id": "Claro_TELEHIT",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "TELEHIT",
+        "longName": "TELEHIT",
+        "tvChannel": 165,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Música"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0165.jpg"
+        ],
+        "Regions": [],
+        "InHomeBlockingRequired": "false",
+        "ProductRefs": "9;13;12",
+        "ltcuSupportDisablement": "true",
+        "npvrSupportDisablement": "true",
+        "Description": "TELEHIT"
+      },
+      "technical": {
+        "_id": "Claro_TELEHIT-TC-1",
+        "id": "Claro_TELEHIT-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_TELEHIT",
+        "companyId": "Claro",
+        "stationId": "TELEHIT-TC-1",
+        "longName": "TELEHIT",
+        "tvChannel": 165,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30148",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=TELEHIT,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "TELEHIT"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=TELEHIT,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0165.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELEHIT)/manifest.mpd",
+        "Description": "TELEHIT",
+        "productRefs": [
+          "12",
+          "13",
+          "46",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_TELEHIT",
+      "t": "Claro_TELEHIT-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_BABYTV",
+        "id": "Claro_BABYTV",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "BABYTV",
+        "longName": "BABY TV",
+        "tvChannel": 212,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9",
+          "Nagra_hybrid_test_1"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Infantiles"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0212.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "182;202;203;Nagra_hybrid_test_1;223;9;13;12",
+        "npvrSupportDisablement": "true",
+        "InHomeBlockingRequired": "false",
+        "ltcuSupportDisablement": "true",
+        "Description": "BABY TV"
+      },
+      "technical": {
+        "_id": "Claro_BABYTV-TC-1",
+        "id": "Claro_BABYTV-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_BABYTV",
+        "companyId": "Claro",
+        "stationId": "BABYTV-TC-1",
+        "longName": "BABY TV",
+        "tvChannel": 212,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30011",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=BABYTV,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "BABYTV"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=BABYTV,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0212.jpg"
+        ],
+        "Regions": [],
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "182;202;203;Nagra_hybrid_test_1",
+        "npvrSupportDisablement": "true",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(BABYTV)/manifest.mpd",
+        "Description": "BABY TV",
+        "productRefs": [
+          "12",
+          "13",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "47",
+          "9",
+          "Nagra_hybrid_test_1"
+        ],
+        "products": [
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "Nagra_hybrid_test_1",
+            "id": "Nagra_hybrid_test_1",
+            "startPurchase": 1684904400,
+            "endPurchase": 2316315599,
+            "price": {
+              "startPurchase": 1684904400,
+              "endPurchase": 2316315599,
+              "currency": "USD",
+              "value": 1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1684904400,
+            "endValidity": 2316229199,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "Nagra_hybrid_test_1",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "Nagra_hybrid_test_1",
+            "Title": "Nagra_hybrid_test_1"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "47",
+            "id": "47",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV BASICO",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV BASICO"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_BABYTV",
+      "t": "Claro_BABYTV-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    },
+    {
+      "locale": "es_LA",
+      "editorial": {
+        "_id": "Claro_TOONCAST",
+        "id": "Claro_TOONCAST",
+        "period": {
+          "start": 1573630508,
+          "end": 2173332908,
+          "duration": 599702400
+        },
+        "companyId": "Claro",
+        "stationId": "TOONCAST",
+        "longName": "TOONCAST",
+        "tvChannel": 213,
+        "dvbinfo": [],
+        "clientControls": {
+
+        },
+        "guardTime": 180,
+        "guardTimeEnd": 180,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "active": true,
+        "contentGroups": [],
+        "productRefs": [
+          "12",
+          "13",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "9"
+        ],
+        "channelGroupRefs": [],
+        "Categories": [
+          "Infantiles"
+        ],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0213.jpg"
+        ],
+        "Regions": [],
+        "ProductRefs": "182;202;203;223;9;13;12",
+        "ltcuSupportDisablement": "true",
+        "InHomeBlockingRequired": "false",
+        "npvrSupportDisablement": "true",
+        "Description": "TOONCAST"
+      },
+      "technical": {
+        "_id": "Claro_TOONCAST-TC-1",
+        "id": "Claro_TOONCAST-TC-1",
+        "period": {
+          "start": 1573630508,
+          "end": 2204782508,
+          "duration": 631152000
+        },
+        "mainChannelId": "Claro_TOONCAST",
+        "companyId": "Claro",
+        "stationId": "TOONCAST-TC-1",
+        "longName": "TOONCAST",
+        "tvChannel": 213,
+        "dvbinfo": {
+          "triplet": {
+
+          }
+        },
+        "profileRef": "ADASH",
+        "profileRefs": [
+          "ADASH",
+          "LTCU_Capture",
+          "DASH_PROFILE",
+          "LTCU_Purge",
+          "LTCU_Validate"
+        ],
+        "drmId": "30155",
+        "drmInstanceName": "DASH",
+        "qmWatermark": false,
+        "catchUpSupport": true,
+        "startOverSupport": true,
+        "StartOverLocation": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/StartOver/Channel(name=TOONCAST,startTime={startTime})/manifest.mpd",
+        "ppvEnabled": false,
+        "isFreeToAir": false,
+        "isMandatoryContentProtection": false,
+        "networkPvrSupport": true,
+        "nPvrSupport": "true",
+        "longTermCatchUpSupport": false,
+        "shortTermCatchUpSupport": true,
+        "networkPvrParameters": {
+          "validityDuration": "P0Y0M180DT0H0M0S",
+          "sourceId": "TOONCAST"
+        },
+        "shortTermCatchUpParameters": {
+          "sourceId": "https://nagracovoststv.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/CatchUp/Channel(name=TOONCAST,startTime={startTime},endTime={endTime})/manifest.mpd",
+          "validityStartOffset": "P0Y0M0DT0H1M0S",
+          "validityDuration": "P0Y0M0DT24H0M0S"
+        },
+        "active": true,
+        "contentGroups": [],
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ],
+        "Categories": [],
+        "PromoImages": [
+          "https://d2gxydqy8dwc9k.cloudfront.net/0213.jpg"
+        ],
+        "Regions": [],
+        "npvrSupportDisablement": "true",
+        "ltcuSupportDisablement": "true",
+        "ProductRefs": "182;202;203",
+        "NetworkLocation": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TOONCAST)/manifest.mpd",
+        "Description": "TOONCAST",
+        "productRefs": [
+          "12",
+          "13",
+          "182",
+          "202",
+          "203",
+          "223",
+          "46",
+          "9"
+        ],
+        "products": [
+          {
+            "_id": "12",
+            "id": "12",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619733600,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Advanced",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S"
+          },
+          {
+            "_id": "9",
+            "id": "9",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Prod - SOCU",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=7200",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV SOCU",
+            "Title": "Producto SOCU Basico"
+          },
+          {
+            "_id": "46",
+            "id": "46",
+            "startPurchase": 1601503200,
+            "endPurchase": 2232741540,
+            "price": {
+              "startPurchase": 1601503200,
+              "endPurchase": 2232741540,
+              "currency": "USD",
+              "value": 0.01
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1601503200,
+            "endValidity": 2232741540,
+            "type": "subscription",
+            "title": "Prod - ATV SUPERIOR",
+            "isFreemium": false,
+            "freemium": {
+              "start": 1601503200,
+              "end": 2232741540,
+              "validityPeriod": 0
+            },
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "contractType": "1",
+            "Description": "ATV HBO IPTV"
+          },
+          {
+            "_id": "182",
+            "id": "182",
+            "startPurchase": 1678726800,
+            "endPurchase": 2231298000,
+            "price": {
+              "startPurchase": 1678726800,
+              "endPurchase": 2231298000,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1678726800,
+            "endValidity": 2231298000,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS W",
+            "Description": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "202",
+            "id": "202",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV VIDEO PARA TODOS",
+            "Description": "ATV VIDEO PARA TODOS"
+          },
+          {
+            "_id": "13",
+            "id": "13",
+            "startPurchase": 1619733600,
+            "endPurchase": 2219435999,
+            "price": {
+              "startPurchase": 1619733600,
+              "endPurchase": 2219435999,
+              "currency": "USD",
+              "value": 0
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1619647200,
+            "endValidity": 2219435999,
+            "deviceClass": [
+              "managedDevice"
+            ],
+            "type": "subscription",
+            "title": "Product SOCU Premium",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "PrivateMetadata": "socuDuration=18000",
+            "contractType": "1",
+            "LicenseDuration": "P100Y0M0DT0H0M0S",
+            "Title": "Product SOCU Premium"
+          },
+          {
+            "_id": "203",
+            "id": "203",
+            "startPurchase": 1687150800,
+            "endPurchase": 2223867599,
+            "price": {
+              "startPurchase": 1687150800,
+              "endPurchase": 2223867599,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1687150800,
+            "endValidity": 2223867599,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV VIDEO PARA TODOS W",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Description": "ATV VIDEO PARA TODOS W",
+            "Title": "ATV VIDEO PARA TODOS W"
+          },
+          {
+            "_id": "223",
+            "id": "223",
+            "startPurchase": 1720674000,
+            "endPurchase": 2288667600,
+            "price": {
+              "startPurchase": 1720674000,
+              "endPurchase": 2288667600,
+              "currency": "USD",
+              "value": 0.1
+            },
+            "billingModel": {
+              "period": 0
+            },
+            "startValidity": 1720674000,
+            "endValidity": 2288667600,
+            "deviceClass": [],
+            "type": "subscription",
+            "title": "ATV INTERMEDIO PLUS",
+            "isFreemium": false,
+            "technicalTypes": [
+              "SD",
+              "HD",
+              "DASH",
+              "HLS"
+            ],
+            "Title": "ATV INTERMEDIO PLUS",
+            "Description": "ATV INTERMEDIO PLUS"
+          }
+        ]
+      },
+      "isFreemium": false,
+      "e": "Claro_TOONCAST",
+      "t": "Claro_TOONCAST-TC-1",
+      "deviceType": [
+        "Android",
+        "STB",
+        "Chrome",
+        "ATV",
+        "Androidmob"
+      ]
+    }
+  ],
+  "total_records": 180
+}
