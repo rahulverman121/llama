@@ -1,0 +1,3272 @@
+{
+    "version": "20240904025503",
+    "services": [
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ET24",
+          "id": "Claro_ET24",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "ET24",
+          "longName": "EL TIEMPO TV",
+          "tvChannel": 109,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9",
+            "NAGRA-GOOG-TEST"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Nacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0109.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "162;182;202;203;223;NAGRA-GOOG-TEST;9;12",
+          "InHomeBlockingRequired": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "EL TIEMPO TV",
+          "ShortName": "EL TIEMPO TV"
+        },
+        "isFreemium": false,
+        "e": "Claro_ET24",
+        "t": "Claro_ET24-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CITYTV",
+          "id": "Claro_CITYTV",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CITYTV",
+          "longName": "CITYTV",
+          "tvChannel": 112,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "46",
+            "47",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Nacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0112.jpg"
+          ],
+          "Regions": [],
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "162;182;Nagra_hybrid_test_1;9;13;12",
+          "Description": "CITYTV"
+        },
+        "isFreemium": false,
+        "e": "Claro_CITYTV",
+        "t": "Claro_CITYTV-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ACTVCO",
+          "id": "Claro_ACTVCO",
+          "period": {
+            "start": 1677560400,
+            "end": 2335496399,
+            "duration": 657935999
+          },
+          "companyId": "Claro",
+          "stationId": "ACTVCO",
+          "longName": "ACTV",
+          "tvChannel": 114,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Variedades"
+          ],
+          "PromoImages": [],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "102;162;182;202;203;46;47;223;9;13;12",
+          "Description": "ACTV",
+          "ShortName": "ACTV"
+        },
+        "isFreemium": false,
+        "e": "Claro_ACTVCO",
+        "t": "1677616265943",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CANALDELCONGRESOCOLOMBIA",
+          "id": "Claro_CANALDELCONGRESOCOLOMBIA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CANALDELCONGRESOCOLOMBIA",
+          "longName": "CANAL CONGRESO",
+          "tvChannel": 124,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Nacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0124.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "162;182;202;203;223;9;13;12",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "CANAL CONGRESO"
+        },
+        "isFreemium": false,
+        "e": "Claro_CANALDELCONGRESOCOLOMBIA",
+        "t": "Claro_CANALDELCONGRESOCOLOMBIA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_COSMOVISIONCOLOMBIA",
+          "id": "Claro_COSMOVISIONCOLOMBIA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "COSMOVISIONCOLOMBIA",
+          "longName": "COSMOVISION",
+          "tvChannel": 125,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Nacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0125.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "162;182;202;203;223;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "COSMOVISION"
+        },
+        "isFreemium": false,
+        "e": "Claro_COSMOVISIONCOLOMBIA",
+        "t": "Claro_COSMOVISIONCOLOMBIA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ZOOMTVCOLOMBIA",
+          "id": "Claro_ZOOMTVCOLOMBIA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "ZOOMTVCOLOMBIA",
+          "longName": "ZOOM",
+          "tvChannel": 126,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Nacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0126.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "162;182;202;203;47;223;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "ZOOM"
+        },
+        "isFreemium": false,
+        "e": "Claro_ZOOMTVCOLOMBIA",
+        "t": "Claro_ZOOMTVCOLOMBIA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CMUSICAA",
+          "id": "Claro_CMUSICAA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CMUSICAA",
+          "longName": "RADIOLA TV",
+          "tvChannel": 152,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "46",
+            "47",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0152.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "162;182;202;203;47;Nagra_hybrid_test_1;9;13;12",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "RADIOLA TV"
+        },
+        "isFreemium": false,
+        "e": "Claro_CMUSICAA",
+        "t": "Claro_CMUSICAA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CMUSICAB",
+          "id": "Claro_CMUSICAB",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CMUSICAB",
+          "longName": "SIN LÍMITES",
+          "tvChannel": 153,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9",
+            "NAGRA-GOOG-TEST"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0153.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "162;182;202;203;47;NAGRA-GOOG-TEST;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "Description": "SIN LÍMITES"
+        },
+        "isFreemium": false,
+        "e": "Claro_CMUSICAB",
+        "t": "Claro_CMUSICAB-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_HTV",
+          "id": "Claro_HTV",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "HTV",
+          "longName": "HTV",
+          "tvChannel": 155,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0155.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "9;13;12",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "validateByOnNet": "false",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "HTV"
+        },
+        "isFreemium": false,
+        "e": "Claro_HTV",
+        "t": "Claro_HTV-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_MTVHITS",
+          "id": "Claro_MTVHITS",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "MTVHITS",
+          "longName": "MTV HITS",
+          "tvChannel": 158,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "9",
+            "NAGRA-GOOG-TEST"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0158.jpg"
+          ],
+          "Regions": [],
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "npvrSupportDisablement": "true",
+          "validateByOnNet": "false",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "182;202;203;NAGRA-GOOG-TEST;223;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "Description": "MTV HITS"
+        },
+        "isFreemium": false,
+        "e": "Claro_MTVHITS",
+        "t": "Claro_MTVHITS-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_MIGENTETV",
+          "id": "Claro_MIGENTETV",
+          "period": {
+            "start": 1630645200,
+            "end": 2167534799,
+            "duration": 536889599
+          },
+          "companyId": "Claro",
+          "stationId": "MIGENTETV",
+          "longName": "MI GENTE",
+          "tvChannel": 159,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "9;13;12",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "false",
+          "Description": "MI GENTE",
+          "ShortName": "MI GENTE"
+        },
+        "isFreemium": false,
+        "e": "Claro_MIGENTETV",
+        "t": "1630953992227",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_VH1CLASSIC",
+          "id": "Claro_VH1CLASSIC",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "VH1CLASSIC",
+          "longName": "MTV 80`S",
+          "tvChannel": 164,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0164.jpg"
+          ],
+          "Regions": [],
+          "npvrSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "MTV 80`S"
+        },
+        "isFreemium": false,
+        "e": "Claro_VH1CLASSIC",
+        "t": "Claro_VH1CLASSIC-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TELEHIT",
+          "id": "Claro_TELEHIT",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TELEHIT",
+          "longName": "TELEHIT",
+          "tvChannel": 165,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Música"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0165.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "9;13;12",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "TELEHIT"
+        },
+        "isFreemium": false,
+        "e": "Claro_TELEHIT",
+        "t": "Claro_TELEHIT-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_BABYTV",
+          "id": "Claro_BABYTV",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "BABYTV",
+          "longName": "BABY TV",
+          "tvChannel": 212,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Infantiles"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0212.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;Nagra_hybrid_test_1;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "BABY TV"
+        },
+        "isFreemium": false,
+        "e": "Claro_BABYTV",
+        "t": "Claro_BABYTV-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TOONCAST",
+          "id": "Claro_TOONCAST",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TOONCAST",
+          "longName": "TOONCAST",
+          "tvChannel": 213,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Infantiles"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0213.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;223;9;13;12",
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "Description": "TOONCAST"
+        },
+        "isFreemium": false,
+        "e": "Claro_TOONCAST",
+        "t": "Claro_TOONCAST-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_NICKTOONS",
+          "id": "Claro_NICKTOONS",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "NICKTOONS",
+          "longName": "NICK MUSIC",
+          "tvChannel": 214,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Infantiles"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0214.jpg"
+          ],
+          "Regions": [],
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "223;202;182;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "Description": "NICK MUSIC"
+        },
+        "isFreemium": false,
+        "e": "Claro_NICKTOONS",
+        "t": "Claro_NICKTOONS-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_EUREKACO",
+          "id": "Claro_EUREKACO",
+          "period": {
+            "start": 1677560400,
+            "end": 2335237199,
+            "duration": 657676799
+          },
+          "companyId": "Claro",
+          "stationId": "EUREKACO",
+          "longName": "EUREKA",
+          "tvChannel": 215,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Infantiles"
+          ],
+          "PromoImages": [],
+          "Regions": [],
+          "ProductRefs": "102;162;182;202;203;46;47;223;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "ShortName": "EUREKA",
+          "Description": "EUREKA"
+        },
+        "isFreemium": false,
+        "e": "Claro_EUREKACO",
+        "t": "1677614858548",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_DISCOVERYSCIENCE",
+          "id": "Claro_DISCOVERYSCIENCE",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "DISCOVERYSCIENCE",
+          "longName": "DISCOVERY SCIENCE",
+          "tvChannel": 304,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Cultural"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0304.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "9;13;12",
+          "Description": "DISCOVERY SCIENCE"
+        },
+        "isFreemium": false,
+        "e": "Claro_DISCOVERYSCIENCE",
+        "t": "Claro_DISCOVERYSCIENCE-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TLNOVELASLATAM",
+          "id": "Claro_TLNOVELASLATAM",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TLNOVELASLATAM",
+          "longName": "TLNOVELAS",
+          "tvChannel": 441,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Variedades"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0441.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;223;9;13;12",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "Description": "TLNOVELAS"
+        },
+        "isFreemium": false,
+        "e": "Claro_TLNOVELASLATAM",
+        "t": "Claro_TLNOVELASLATAM-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_RCNTELENOVELAS",
+          "id": "Claro_RCNTELENOVELAS",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "RCNTELENOVELAS",
+          "longName": "RCN NOVELAS",
+          "tvChannel": 445,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Variedades"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0445.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "Description": "RCN NOVELAS"
+        },
+        "isFreemium": false,
+        "e": "Claro_RCNTELENOVELAS",
+        "t": "Claro_RCNTELENOVELAS-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TELEAMIGA",
+          "id": "Claro_TELEAMIGA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TELEAMIGA",
+          "longName": "TELEAMIGA",
+          "tvChannel": 449,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Variedades"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0449.jpg"
+          ],
+          "Regions": [],
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "162;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "Description": "TELEAMIGA"
+        },
+        "isFreemium": false,
+        "e": "Claro_TELEAMIGA",
+        "t": "Claro_TELEAMIGA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_FOXNEWS",
+          "id": "Claro_FOXNEWS",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "FOXNEWS",
+          "longName": "FOX NEWS",
+          "tvChannel": 452,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0452.jpg"
+          ],
+          "Regions": [],
+          "validateByOnNet": "false",
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "9;13;12",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "FOX NEWS"
+        },
+        "isFreemium": false,
+        "e": "Claro_FOXNEWS",
+        "t": "Claro_FOXNEWS-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_HLN",
+          "id": "Claro_HLN",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "HLN",
+          "longName": "HEADLINE NEWS",
+          "tvChannel": 453,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0453.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "9;13;12",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "validateByOnNet": "false",
+          "npvrSupportDisablement": "true",
+          "Description": "HEADLINE NEWS"
+        },
+        "isFreemium": false,
+        "e": "Claro_HLN",
+        "t": "Claro_HLN-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CNNINTERNACIONAL",
+          "id": "Claro_CNNINTERNACIONAL",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CNNINTERNACIONAL",
+          "longName": "CNN INTERNACIONAL",
+          "tvChannel": 454,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0454.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "9;13;12",
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "Description": "CNN INTERNACIONAL"
+        },
+        "isFreemium": false,
+        "e": "Claro_CNNINTERNACIONAL",
+        "t": "Claro_CNNINTERNACIONAL-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CNNENESPANOL",
+          "id": "Claro_CNNENESPANOL",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CNNENESPANOL",
+          "longName": "CNN EN ESPAÑOL",
+          "tvChannel": 455,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0455.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "npvrSupportDisablement": "true",
+          "Description": "CNN EN ESPAÑOL"
+        },
+        "isFreemium": false,
+        "e": "Claro_CNNENESPANOL",
+        "t": "Claro_CNNENESPANOL-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_DATAIFX",
+          "id": "Claro_DATAIFX",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "DATAIFX",
+          "longName": "PRIMERA PAGINA TV",
+          "tvChannel": 458,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0458.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;223;9;13;12",
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "ShortName": "PRIMERA PAGINA TV",
+          "Description": "PRIMERA PAGINA TV"
+        },
+        "isFreemium": false,
+        "e": "Claro_DATAIFX",
+        "t": "Claro_DATAIFX-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_NTN24",
+          "id": "Claro_NTN24",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "NTN24",
+          "longName": "NTN 24",
+          "tvChannel": 461,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0461.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "validateByOnNet": "false",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "NTN 24"
+        },
+        "isFreemium": false,
+        "e": "Claro_NTN24",
+        "t": "Claro_NTN24-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_france24",
+          "id": "Claro_france24",
+          "period": {
+            "start": 1592110800,
+            "end": 2335237199,
+            "duration": 743126399
+          },
+          "companyId": "Claro",
+          "stationId": "france24",
+          "longName": "FRANCE 24 FRAN",
+          "sourcePreference": "OTT",
+          "tvChannel": 469,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "82",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [],
+          "Regions": [],
+          "ProductRefs": "82;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "Description": "FRANCE 24 FRAN",
+          "ShortName": "FRANCE 24 FRAN"
+        },
+        "isFreemium": false,
+        "e": "Claro_france24",
+        "t": "1687325326746",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TVE",
+          "id": "Claro_TVE",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TVE",
+          "longName": "TVE",
+          "tvChannel": 470,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Internacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0470.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "Nagra_hybrid_test_1;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "Description": "TVE"
+        },
+        "isFreemium": false,
+        "e": "Claro_TVE",
+        "t": "Claro_TVE-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TV5",
+          "id": "Claro_TV5",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TV5",
+          "longName": "TV5",
+          "tvChannel": 472,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Internacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0472.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "Description": "TV5"
+        },
+        "isFreemium": false,
+        "e": "Claro_TV5",
+        "t": "Claro_TV5-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_DWTV",
+          "id": "Claro_DWTV",
+          "period": {
+            "start": 1573630508,
+            "end": 2204868908,
+            "duration": 631238400
+          },
+          "companyId": "Claro",
+          "stationId": "DWTV",
+          "longName": "DW",
+          "tvChannel": 474,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Internacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0474.jpg"
+          ],
+          "Regions": [],
+          "validateByOnNet": "false",
+          "ProductRefs": "9;13;12",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "Description": "DW"
+        },
+        "isFreemium": false,
+        "e": "Claro_DWTV",
+        "t": "Claro_DWTV-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TVCOLOMBIA",
+          "id": "Claro_TVCOLOMBIA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TVCOLOMBIA",
+          "longName": "NUESTRA TELE",
+          "tvChannel": 478,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Internacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0478.jpg"
+          ],
+          "Regions": [],
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "InHomeBlockingRequired": "false",
+          "Description": "NUESTRA TELE"
+        },
+        "isFreemium": false,
+        "e": "Claro_TVCOLOMBIA",
+        "t": "Claro_TVCOLOMBIA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ARIRANG",
+          "id": "Claro_ARIRANG",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "ARIRANG",
+          "longName": "ARIRANG",
+          "tvChannel": 479,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Internacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0479.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "9;13;12",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "ARIRANG"
+        },
+        "isFreemium": false,
+        "e": "Claro_ARIRANG",
+        "t": "Claro_ARIRANG-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ALJAZEERA",
+          "id": "Claro_ALJAZEERA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "ALJAZEERA",
+          "longName": "ALJAZEERA",
+          "tvChannel": 480,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Internacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0480.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "Description": "ALJAZEERA"
+        },
+        "isFreemium": false,
+        "e": "Claro_ALJAZEERA",
+        "t": "Claro_ALJAZEERA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_HORAS24",
+          "id": "Claro_HORAS24",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "HORAS24",
+          "longName": "24 HORAS",
+          "tvChannel": 481,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Opinión"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0481.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "9;13;12",
+          "ltcuSupportDisablement": "true",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "validateByOnNet": "false",
+          "npvrSupportDisablement": "true",
+          "Description": "24 HORAS"
+        },
+        "isFreemium": false,
+        "e": "Claro_HORAS24",
+        "t": "Claro_HORAS24-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_FRANCE24ENG",
+          "id": "Claro_FRANCE24ENG",
+          "period": {
+            "start": 1624770000,
+            "end": 2161486799,
+            "duration": 536716799
+          },
+          "companyId": "Claro",
+          "stationId": "FRANCE24ENG",
+          "longName": "FRANCE 24 ENGLISH",
+          "tvChannel": 492,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Premium"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0492.jpg"
+          ],
+          "Regions": [],
+          "npvrSupportDisablement": "true",
+          "ltcuSupportDisablement": "true",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "ProductRefs": "47;9;13;12",
+          "validateByOnNet": "false",
+          "InHomeBlockingRequired": "false",
+          "ShortName": "FRANCE 24 ENGLISH",
+          "Description": "FRANCE 24 ENGLISH"
+        },
+        "isFreemium": false,
+        "e": "Claro_FRANCE24ENG",
+        "t": "Claro_FRANCE24ENG-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_PPV07CLARO",
+          "id": "Claro_PPV07CLARO",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "PPV07CLARO",
+          "longName": "PENTHOUSE",
+          "tvChannel": 656,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "48"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Premium"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0656.jpg"
+          ],
+          "Regions": [],
+          "Rating": {
+            "Title": "TVX",
+            "code": "TVX"
+          },
+          "ltcuSupportDisablement": "true",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "npvrSupportDisablement": "true",
+          "validateByOnNet": "false",
+          "InHomeBlockingRequired": "false",
+          "Description": "PENTHOUSE"
+        },
+        "isFreemium": false,
+        "e": "Claro_PPV07CLARO",
+        "t": "Claro_PPV07CLARO-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_PPVSEXYHOTCLARO",
+          "id": "Claro_PPVSEXYHOTCLARO",
+          "period": {
+            "start": 1710133200,
+            "end": 2247454799,
+            "duration": 537321599
+          },
+          "companyId": "Claro",
+          "stationId": "PPVSEXYHOTCLARO",
+          "longName": "PPVSEXYHOTCLARO",
+          "sourcePreference": "OTT",
+          "tvChannel": 657,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "catchUpSupport": false,
+          "startOverSupport": false,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": false,
+          "nPvrSupport": "false",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": false,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "48"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Premium"
+          ],
+          "PromoImages": [],
+          "Regions": [],
+          "Rating": {
+            "Title": "TVX",
+            "code": "TVX"
+          },
+          "validateByOnNet": "false",
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "48",
+          "ShortName": "PPVSEXYHOTCLARO",
+          "Description": "PPVSEXYHOTCLARO.."
+        },
+        "isFreemium": false,
+        "e": "Claro_PPVSEXYHOTCLARO",
+        "t": "1710776748313",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_PPV09CLARO",
+          "id": "Claro_PPV09CLARO",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "PPV09CLARO",
+          "longName": "SEXTREME",
+          "tvChannel": 658,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "48"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Premium"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0658.jpg"
+          ],
+          "Regions": [],
+          "Rating": {
+            "Title": "TVX",
+            "code": "TVX"
+          },
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "SEXTREME"
+        },
+        "isFreemium": false,
+        "e": "Claro_PPV09CLARO",
+        "t": "Claro_PPV09CLARO-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_VENUSCLARO",
+          "id": "Claro_VENUSCLARO",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "VENUSCLARO",
+          "longName": "VENUS",
+          "tvChannel": 670,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "48"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Premium"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0670.jpg"
+          ],
+          "Regions": [],
+          "Rating": {
+            "Title": "TVX",
+            "code": "TVX"
+          },
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "VENUS"
+        },
+        "isFreemium": false,
+        "e": "Claro_VENUSCLARO",
+        "t": "Claro_VENUSCLARO-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_MULTIPREMIER",
+          "id": "Claro_MULTIPREMIER",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "MULTIPREMIER",
+          "longName": "MULTIPREMIER",
+          "tvChannel": 712,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Películas"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0712.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;Nagra_hybrid_test_1;223;9;13;12",
+          "InHomeBlockingRequired": "false",
+          "validateByOnNet": "false",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "Description": "MULTIPREMIER"
+        },
+        "isFreemium": false,
+        "e": "Claro_MULTIPREMIER",
+        "t": "Claro_MULTIPREMIER-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CINELATINO",
+          "id": "Claro_CINELATINO",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CINELATINO",
+          "longName": "CINE LATINO",
+          "tvChannel": 714,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Películas"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0714.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;Nagra_hybrid_test_1;223;9;13;12",
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "Description": "CINE LATINO"
+        },
+        "isFreemium": false,
+        "e": "Claro_CINELATINO",
+        "t": "Claro_CINELATINO-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CINEMA",
+          "id": "Claro_CINEMA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CINEMA",
+          "longName": "CINEMA +",
+          "tvChannel": 717,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Películas"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0717.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "npvrSupportDisablement": "true",
+          "ProductRefs": "9;13;12",
+          "Description": "CINEMA +"
+        },
+        "isFreemium": false,
+        "e": "Claro_CINEMA",
+        "t": "Claro_CINEMA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_TCM",
+          "id": "Claro_TCM",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "TCM",
+          "longName": "TCM",
+          "tvChannel": 725,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Películas"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0725.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "182;202;203;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "Description": "TCM"
+        },
+        "isFreemium": false,
+        "e": "Claro_TCM",
+        "t": "Claro_TCM-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CLAROCINEMA",
+          "id": "Claro_CLAROCINEMA",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CLAROCINEMA",
+          "longName": "CLARO CINEMA",
+          "tvChannel": 728,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Nacionales"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0728.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "182;202;203;223;9;13;12",
+          "Description": "CLARO CINEMA"
+        },
+        "isFreemium": false,
+        "e": "Claro_CLAROCINEMA",
+        "t": "Claro_CLAROCINEMA-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CINEMAXPANAMERICANO",
+          "id": "Claro_CINEMAXPANAMERICANO",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CINEMAXPANAMERICANO",
+          "longName": "HBO MUNDI",
+          "tvChannel": 754,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "12",
+            "13",
+            "43",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Premium"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0754.jpg"
+          ],
+          "Regions": [],
+          "ProductRefs": "9;13;12",
+          "ltcuSupportDisablement": "true",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "Description": "HBO MUNDI"
+        },
+        "isFreemium": false,
+        "e": "Claro_CINEMAXPANAMERICANO",
+        "t": "Claro_CINEMAXPANAMERICANO-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_EWTN",
+          "id": "Claro_EWTN",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "EWTN",
+          "longName": "EWTN",
+          "tvChannel": 901,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Religiosos"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0901.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "ProductRefs": "162;182;202;203;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "Description": "EWTN"
+        },
+        "isFreemium": false,
+        "e": "Claro_EWTN",
+        "t": "Claro_EWTN-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ELSEMBRADOR",
+          "id": "Claro_ELSEMBRADOR",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "ELSEMBRADOR",
+          "longName": "EL SEMBRADOR",
+          "tvChannel": 902,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Religiosos"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0902.jpg"
+          ],
+          "Regions": [],
+          "InHomeBlockingRequired": "false",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "162;182;202;203;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "Description": "EL SEMBRADOR"
+        },
+        "isFreemium": false,
+        "e": "Claro_ELSEMBRADOR",
+        "t": "Claro_ELSEMBRADOR-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_CRISTOVISION",
+          "id": "Claro_CRISTOVISION",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "CRISTOVISION",
+          "longName": "CRISTOVISIÓN",
+          "tvChannel": 903,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Religiosos"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0903.jpg"
+          ],
+          "Regions": [],
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "162;182;202;203;223;9;13;12",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "Description": "CRISTOVISIÓN"
+        },
+        "isFreemium": false,
+        "e": "Claro_CRISTOVISION",
+        "t": "Claro_CRISTOVISION-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      },
+      {
+        "locale": "es_LA",
+        "editorial": {
+          "_id": "Claro_ENLACE",
+          "id": "Claro_ENLACE",
+          "period": {
+            "start": 1573630508,
+            "end": 2173332908,
+            "duration": 599702400
+          },
+          "companyId": "Claro",
+          "stationId": "ENLACE",
+          "longName": "ENLACE",
+          "tvChannel": 905,
+          "dvbinfo": [],
+          "clientControls": {
+  
+          },
+          "guardTime": 180,
+          "guardTimeEnd": 180,
+          "catchUpSupport": true,
+          "startOverSupport": true,
+          "ppvEnabled": false,
+          "isFreeToAir": false,
+          "isMandatoryContentProtection": false,
+          "networkPvrSupport": true,
+          "nPvrSupport": "true",
+          "longTermCatchUpSupport": false,
+          "shortTermCatchUpSupport": true,
+          "active": true,
+          "contentGroups": [],
+          "productRefs": [
+            "102",
+            "12",
+            "13",
+            "162",
+            "182",
+            "202",
+            "203",
+            "223",
+            "46",
+            "47",
+            "9",
+            "Nagra_hybrid_test_1"
+          ],
+          "channelGroupRefs": [],
+          "Categories": [
+            "Religiosos"
+          ],
+          "PromoImages": [
+            "https://d2gxydqy8dwc9k.cloudfront.net/0905.jpg"
+          ],
+          "Regions": [],
+          "validateByOnNet": "false",
+          "npvrSupportDisablement": "true",
+          "InHomeBlockingRequired": "false",
+          "geoFilteringBillAddrCountryWhiteList": "false",
+          "ltcuSupportDisablement": "true",
+          "ProductRefs": "162;182;202;203;Nagra_hybrid_test_1;223;9;13;12",
+          "Description": "ENLACE"
+        },
+        "isFreemium": false,
+        "e": "Claro_ENLACE",
+        "t": "Claro_ENLACE-TC-1",
+        "deviceType": [
+          "Android",
+          "STB",
+          "Chrome",
+          "ATV",
+          "Androidmob"
+        ]
+      }
+    ],
+    "total_records": 180
+  }
