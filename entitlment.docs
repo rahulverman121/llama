@@ -1,63 +1,78 @@
 User Subscription Data:
-Account ID: ION3
 Total Products: 6
+
+
 Products Subscribed:
+
 Product ID: 42
 Status: SUBSCRIBED
-Validity: ABSOLUTE
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
-Is Archivable: Yes
-Is Freemium: No
 Price: $160
+Supported Channels:
+SD
+HD
+FHD
+
 Product ID: 43
 Status: SUBSCRIBED
-Validity: ABSOLUTE
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-27
-Is Archivable: Yes
-Is Freemium: No
 Price: $240
+Supported Channels:
+HD
+FHD
+UHD
+4K
+
 Product ID: 44
 Status: SUBSCRIBED
-Validity: ABSOLUTE
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-07
-Is Archivable: Yes
-Is Freemium: No
 Price: $180
+Supported Channels:
+SD
+FHD
+UHD
+
 Product ID: 45
 Status: SUBSCRIBED
-Validity: ABSOLUTE
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-06
-Is Archivable: Yes
-Is Freemium: No
 Price: $220
+Supported Channels:
+SD
+HD
+UHD
+4K
+
 Product ID: 46
 Status: SUBSCRIBED
-Validity: ABSOLUTE
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-28
-Is Archivable: Yes
-Is Freemium: No
 Price: $250
+Supported Channels:
+HD
+FHD
+4K
+
 Product ID: 48
 Status: SUBSCRIBED
-Validity: ABSOLUTE
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2023-06-14
-Is Archivable: Yes
-Is Freemium: No
 Price: $190
+Supported Channels:
+SD
+FHD
+UHD
