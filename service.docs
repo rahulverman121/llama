@@ -1,0 +1,241 @@
+
+
+### Service Data ###
+
+#### Service 1 ####
+ServiceID: Claro_ET24
+LongName: EL TIEMPO TV
+StationID: ET24
+TVChannel: 109
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1573630508
+EndPeriod: 2173332908
+Duration: 599702400 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
+Categories: [Nacionales]
+PromoImage: https://d2gxydqy8dwc9k.cloudfront.net/0109.jpg
+InHomeBlockingRequired: true
+NPVRSupportDisability: true
+Description: EL TIEMPO TV
+ShortName: EL TIEMPO TV
+DeviceType: [Android, STB, Chrome, ATV, Androidmob]
+
+#### Service 2 ####
+ServiceID: Claro_CITYTV
+LongName: CITYTV
+StationID: CITYTV
+TVChannel: 112
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1573630508
+EndPeriod: 2173332908
+Duration: 599702400 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
+Categories: [Nacionales]
+PromoImage: https://d2gxydqy8dwc9k.cloudfront.net/0112.jpg
+InHomeBlockingRequired: false
+NPVRSupportDisability: true
+Description: CITYTV
+
+#### Service 3 ####
+ServiceID: Claro_ACTVCO
+LongName: ACTV
+StationID: ACTVCO
+TVChannel: 114
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1677560400
+EndPeriod: 2335496399
+Duration: 657935999 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 46, 47, 9]
+Categories: [Variedades]
+Description: ACTV
+ShortName: ACTV
+
+#### Service 4 ####
+ServiceID: Claro_CANALDELCONGRESOCOLOMBIA
+LongName: CANAL CONGRESO
+StationID: CANALDELCONGRESOCOLOMBIA
+TVChannel: 124
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1573630508
+EndPeriod: 2173332908
+Duration: 599702400 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 46, 47, 9]
+Categories: [Nacionales]
+PromoImage: https://d2gxydqy8dwc9k.cloudfront.net/0124.jpg
+InHomeBlockingRequired: false
+NPVRSupportDisability: true
+Description: CANAL CONGRESO
+
+
+
+
+### Service Data ###
+
+#### Service 1 ####
+ServiceID: Claro_ET24
+LongName: EL TIEMPO TV
+StationID: ET24
+TVChannel: 109
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1573630508
+EndPeriod: 2173332908
+Duration: 599702400 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
+Categories: [Nacionales]
+PromoImage: https://d2gxydqy8dwc9k.cloudfront.net/0109.jpg
+InHomeBlockingRequired: true
+NPVRSupportDisability: true
+Description: EL TIEMPO TV
+ShortName: EL TIEMPO TV
+DeviceType: [Android, STB, Chrome, ATV, Androidmob]
+
+#### Service 2 ####
+ServiceID: Claro_CITYTV
+LongName: CITYTV
+StationID: CITYTV
+TVChannel: 112
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1573630508
+EndPeriod: 2173332908
+Duration: 599702400 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
+Categories: [Nacionales]
+PromoImage: https://d2gxydqy8dwc9k.cloudfront.net/0112.jpg
+InHomeBlockingRequired: false
+NPVRSupportDisability: true
+Description: CITYTV
+
+#### Service 3 ####
+ServiceID: Claro_ACTVCO
+LongName: ACTV
+StationID: ACTVCO
+TVChannel: 114
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1677560400
+EndPeriod: 2335496399
+Duration: 657935999 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 46, 47, 9]
+Categories: [Variedades]
+Description: ACTV
+ShortName: ACTV
+
+#### Service 4 ####
+ServiceID: Claro_CANALDELCONGRESOCOLOMBIA
+LongName: CANAL CONGRESO
+StationID: CANALDELCONGRESOCOLOMBIA
+TVChannel: 124
+CompanyID: Claro
+Locale: es_LA
+StartPeriod: 1573630508
+EndPeriod: 2173332908
+Duration: 599702400 seconds
+GuardTime: 180 seconds
+CatchUpSupport: true
+StartOverSupport: true
+PPVEnabled: false
+FreeToAir: false
+MandatoryContentProtection: false
+NetworkPVRSupport: true
+NPVRSupport: true
+LongTermCatchUpSupport: false
+ShortTermCatchUpSupport: true
+Active: true
+ContentGroups: []
+ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 46, 47, 9]
+Categories: [Nacionales]
+PromoImage: https://d2gxydqy8dwc9k.cloudfront.net/0124.jpg
+InHomeBlockingRequired: false
+NPVRSupportDisability: true
+Description: CANAL CONGRESO
+
