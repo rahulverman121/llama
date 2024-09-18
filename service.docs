@@ -4,7 +4,7 @@
 
 #### Channel 1 ####
 Name: EL TIEMPO TV
-TVChannel: 109
+ChannelNo: 109
 CompanyID: Claro
 Locale: es_LA
 StartPeriod: 1573630508
@@ -24,7 +24,7 @@ ShortName: EL TIEMPO TV
 #### Channel 2 ####
 Name: CITYTV
 StationID: CITYTV
-TVChannel: 112
+ChannelNo: 112
 CompanyID: Claro
 Locale: es_LA
 StartPeriod: 1573630508
@@ -45,7 +45,7 @@ NPVRSupportDisability: true
 #### Channel 3 ####
 Name: ACTV
 StationID: ACTVCO
-TVChannel: 114
+ChannelNo: 114
 CompanyID: Claro
 Locale: es_LA
 StartPeriod: 1677560400
@@ -62,27 +62,16 @@ ShortTermCatchUpSupport: true
 ContentGroups: []
 ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
 Categories: [Variedades]
-ShortName: ACTV
+
 
 #### Channel 4 ####
 Name: CANAL CONGRESO
-TVChannel: 124
-CompanyID: Claro
+ChannelNo: 124
 Locale: es_LA
 StartPeriod: 1573630508
 EndPeriod: 2173332908
 Duration: 599702400 seconds
-GuardTime: 180 seconds
-CatchUpSupport: true
-StartOverSupport: true
-FreeToAir: false
-NPVRSupport: true
 'subscription status': unsubscribed 
-LongTermCatchUpSupport: false
-ShortTermCatchUpSupport: true
-ContentGroups: []
 ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
 Categories: [Nacionales]
-InHomeBlockingRequired: false
-NPVRSupportDisability: true
 
