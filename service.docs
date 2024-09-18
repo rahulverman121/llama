@@ -1,60 +1,63 @@
 ### Channels Data ###
 
+Total Channels - 4
 
+Subscribed Channels - 4
 
-#### Channel 109 ####
+  #### Channel 109 ####
+    {
+      Name: EL TIEMPO TV
+      Categories: [Nacionales, sports]
+      Status: Subscribed 
+      ChannelNo: 109
+      Locale: es_LA
+      StartPeriod: 1573630508
+      EndPeriod: 2173332908
+      Duration: 599702400 seconds
+      ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
+    }\n\n
+  
+  #### Channel 112 ####
   {
-    Name: EL TIEMPO TV
-    Categories: [Nacionales, sports]
-    Status: Subscribed 
-    ChannelNo: 109
-    Locale: es_LA
-    StartPeriod: 1573630508
-    EndPeriod: 2173332908
-    Duration: 599702400 seconds
-    ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
-  }\n\n
-
-#### Channel 112 ####
-{
-  Name: CITYTV
-  Categories: [Nacionales]
-  Status: Subscribed 
-  ChannelNo: 112
-  CompanyID: Claro
-  Locale: es_LA
-  StartPeriod: 1573630508
-  EndPeriod: 2173332908
-  Duration: 599702400 seconds
-  ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
-}\n\n
-
-
-#### Channel 114 ####
-  {
-    Name: ACTV
-    StationID: ACTVCO
-    Categories: [Variedades, sports]
-    Status: Unsubscribed 
-    ChannelNo: 114
-    Locale: es_LA
-    StartPeriod: 1677560400
-    EndPeriod: 2335496399
-    Duration: 657935999 seconds
-    ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
-  }\n\n
-
-
-#### Channel 124 ####
-  {
-    Name: CANAL CONGRESO
+    Name: CITYTV
     Categories: [Nacionales]
-    Status: Unsubscribed 
-    ChannelNo: 124
+    Status: Subscribed 
+    ChannelNo: 112
+    CompanyID: Claro
     Locale: es_LA
     StartPeriod: 1573630508
     EndPeriod: 2173332908
     Duration: 599702400 seconds
-    ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
+    ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
   }\n\n
 
+Subscribed Channels - 2
+
+  #### Channel 114 ####
+    {
+      Name: ACTV
+      StationID: ACTVCO
+      Categories: [Variedades, sports]
+      Status: Unsubscribed 
+      ChannelNo: 114
+      Locale: es_LA
+      StartPeriod: 1677560400
+      EndPeriod: 2335496399
+      Duration: 657935999 seconds
+      ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
+    }\n\n
+  
+  
+  #### Channel 124 ####
+    {
+      Name: CANAL CONGRESO
+      Categories: [Nacionales]
+      Status: Unsubscribed 
+      ChannelNo: 124
+      Locale: es_LA
+      StartPeriod: 1573630508
+      EndPeriod: 2173332908
+      Duration: 599702400 seconds
+      ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
+    }\n\n
+  
