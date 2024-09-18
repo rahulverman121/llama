@@ -2,7 +2,7 @@
 
 ### Channels Data ###
 
-#### Channel 1 ####
+#### Channel 109 ####
 Name: EL TIEMPO TV
 ChannelNo: 109
 Locale: es_LA
@@ -13,7 +13,7 @@ Duration: 599702400 seconds
 ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
 Categories: [Nacionales, sports]
 
-#### Channel 2 ####
+#### Channel 112 ####
 Name: CITYTV
 StationID: CITYTV
 ChannelNo: 112
@@ -26,7 +26,7 @@ Duration: 599702400 seconds
 ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
 Categories: [Nacionales]
 
-#### Channel 3 ####
+#### Channel 114 ####
 Name: ACTV
 StationID: ACTVCO
 ChannelNo: 114
@@ -41,7 +41,7 @@ ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
 Categories: [Variedades, sports]
 
 
-#### Channel 4 ####
+#### Channel 124 ####
 Name: CANAL CONGRESO
 ChannelNo: 124
 Locale: es_LA
