@@ -7,7 +7,7 @@ Subscribed Channels - 4
   #### Channel 109 ####
     {
       Name: EL TIEMPO TV
-      Categories: [sports]
+      Categories: sports
       Status: Subscribed 
       ChannelNo: 109
       Locale: es_LA
@@ -20,7 +20,7 @@ Subscribed Channels - 4
   #### Channel 112 ####
   {
     Name: CITYTV
-    Categories: [Nacionales]
+    Categories: Nacionales
     Status: Subscribed 
     ChannelNo: 112
     CompanyID: Claro
@@ -37,7 +37,7 @@ Subscribed Channels - 2
     {
       Name: ACTV
       StationID: ACTVCO
-      Categories: [sports]
+      Categories: sports
       Status: Unsubscribed 
       ChannelNo: 114
       Locale: es_LA
@@ -51,7 +51,7 @@ Subscribed Channels - 2
   #### Channel 124 ####
     {
       Name: CANAL CONGRESO
-      Categories: [Variedades]
+      Categories: Variedades
       Status: Unsubscribed 
       ChannelNo: 124
       Locale: es_LA
