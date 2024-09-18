@@ -5,21 +5,13 @@
 #### Channel 1 ####
 Name: EL TIEMPO TV
 ChannelNo: 109
-CompanyID: Claro
 Locale: es_LA
 StartPeriod: 1573630508
 EndPeriod: 2173332908
 Duration: 599702400 seconds
-FreeToAir: false
-NPVRSupport: true
-LongTermCatchUpSupport: false
-ShortTermCatchUpSupport: true
-ContentGroups: []
 'subscription status': subscribed 
 ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
 Categories: [Nacionales, sports]
-NPVRSupportDisability: true
-ShortName: EL TIEMPO TV
 
 #### Channel 2 ####
 Name: CITYTV
@@ -30,17 +22,9 @@ Locale: es_LA
 StartPeriod: 1573630508
 EndPeriod: 2173332908
 Duration: 599702400 seconds
-GuardTime: 180 seconds
-CatchUpSupport: true
-StartOverSupport: true
-FreeToAir: false
-NPVRSupport: true
-LongTermCatchUpSupport: false
-ShortTermCatchUpSupport: true
 'subscription status': subscribed 
 ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
 Categories: [Nacionales]
-NPVRSupportDisability: true
 
 #### Channel 3 ####
 Name: ACTV
@@ -52,16 +36,9 @@ StartPeriod: 1677560400
 EndPeriod: 2335496399
 Duration: 657935999 seconds
 GuardTime: 180 seconds
-CatchUpSupport: true
-StartOverSupport: true
-FreeToAir: false
 'subscription status': unsubscribed 
-NPVRSupport: true
-LongTermCatchUpSupport: false
-ShortTermCatchUpSupport: true
-ContentGroups: []
 ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
-Categories: [Variedades]
+Categories: [Variedades, sports]
 
 
 #### Channel 4 ####
