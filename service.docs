@@ -1,8 +1,8 @@
 
 
-### Service Data ###
+### Channels Data ###
 
-#### Service 1 ####
+#### Channel 1 ####
 Name: EL TIEMPO TV
 TVChannel: 109
 CompanyID: Claro
@@ -10,9 +10,6 @@ Locale: es_LA
 StartPeriod: 1573630508
 EndPeriod: 2173332908
 Duration: 599702400 seconds
-GuardTime: 180 seconds
-CatchUpSupport: true
-StartOverSupport: true
 FreeToAir: false
 NPVRSupport: true
 LongTermCatchUpSupport: false
@@ -24,7 +21,7 @@ Categories: [Nacionales, sports]
 NPVRSupportDisability: true
 ShortName: EL TIEMPO TV
 
-#### Service 2 ####
+#### Channel 2 ####
 Name: CITYTV
 StationID: CITYTV
 TVChannel: 112
@@ -45,7 +42,7 @@ ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
 Categories: [Nacionales]
 NPVRSupportDisability: true
 
-#### Service 3 ####
+#### Channel 3 ####
 Name: ACTV
 StationID: ACTVCO
 TVChannel: 114
@@ -67,7 +64,7 @@ ProductRefs: [102, 12, 13, 162, 182, 202, 203, 223, 47, 9]
 Categories: [Variedades]
 ShortName: ACTV
 
-#### Service 4 ####
+#### Channel 4 ####
 Name: CANAL CONGRESO
 TVChannel: 124
 CompanyID: Claro
