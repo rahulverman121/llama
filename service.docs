@@ -18,8 +18,9 @@ NPVRSupport: true
 LongTermCatchUpSupport: false
 ShortTermCatchUpSupport: true
 ContentGroups: []
+'subscription status': subscribed 
 ProductRefs: [102, 162, 182, 202, 203, 223, 46, 47, 9, NAGRA-GOOG-TEST]
-Categories: [Nacionales]
+Categories: [Nacionales, sports]
 NPVRSupportDisability: true
 ShortName: EL TIEMPO TV
 
@@ -39,6 +40,7 @@ FreeToAir: false
 NPVRSupport: true
 LongTermCatchUpSupport: false
 ShortTermCatchUpSupport: true
+'subscription status': subscribed 
 ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
 Categories: [Nacionales]
 NPVRSupportDisability: true
@@ -56,6 +58,7 @@ GuardTime: 180 seconds
 CatchUpSupport: true
 StartOverSupport: true
 FreeToAir: false
+'subscription status': unsubscribed 
 NPVRSupport: true
 LongTermCatchUpSupport: false
 ShortTermCatchUpSupport: true
@@ -77,6 +80,7 @@ CatchUpSupport: true
 StartOverSupport: true
 FreeToAir: false
 NPVRSupport: true
+'subscription status': unsubscribed 
 LongTermCatchUpSupport: false
 ShortTermCatchUpSupport: true
 ContentGroups: []
