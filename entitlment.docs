@@ -6,7 +6,6 @@ Products Subscribed:
 
 Product ID: 42
 Status: SUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Price: $160
@@ -17,7 +16,6 @@ FHD
 
 Product ID: 43
 Status: SUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-27
@@ -30,7 +28,6 @@ UHD
 
 Product ID: 44
 Status: SUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-07
@@ -42,7 +39,6 @@ UHD
 
 Product ID: 45
 Status: SUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-06
@@ -55,7 +51,6 @@ UHD
 
 Product ID: 46
 Status: SUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2024-08-28
@@ -67,7 +62,6 @@ FHD
 
 Product ID: 48
 Status: SUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
 Modified: 2023-06-14
@@ -81,7 +75,6 @@ Products Unsubscribed:
 
 Product ID: 49
 Status: UNSUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-01-15
 Expiry Date: 2024-01-15
 Price: $130
@@ -91,7 +84,6 @@ HD
 
 Product ID: 50
 Status: UNSUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2023-07-01
 Expiry Date: 2025-07-01
 Price: $200
@@ -101,7 +93,6 @@ UHD
 
 Product ID: 51
 Status: UNSUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2024-02-20
 Expiry Date: 2025-02-20
 Price: $250
@@ -112,7 +103,6 @@ UHD
 
 Product ID: 52
 Status: UNSUBSCRIBED
-Product Type: SUBSCRIPTION
 Valid From: 2024-05-10
 Expiry Date: 2026-05-10
 Price: $170
