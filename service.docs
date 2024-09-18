@@ -35,10 +35,7 @@ Duration: 599702400 seconds
 GuardTime: 180 seconds
 CatchUpSupport: true
 StartOverSupport: true
-PPVEnabled: false
 FreeToAir: false
-MandatoryContentProtection: false
-NetworkPVRSupport: true
 NPVRSupport: true
 LongTermCatchUpSupport: false
 ShortTermCatchUpSupport: true
@@ -58,10 +55,7 @@ Duration: 657935999 seconds
 GuardTime: 180 seconds
 CatchUpSupport: true
 StartOverSupport: true
-PPVEnabled: false
 FreeToAir: false
-MandatoryContentProtection: false
-NetworkPVRSupport: true
 NPVRSupport: true
 LongTermCatchUpSupport: false
 ShortTermCatchUpSupport: true
