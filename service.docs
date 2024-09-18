@@ -31,6 +31,33 @@ Subscribed Channels - 4
     ProductRefs: [102, 12, 13, 162, 182, 46, 47, 9, Nagra_hybrid_test_1]
   }\n\n
 
+  #### Channel 445 ####
+  {
+    Name: RCN NOVELAS,
+    Categories: Nacionales,
+    Status: Subscribed,
+    ChannelNo: 445,
+    Locale: es_LA,
+    StartPeriod: 1573630508,
+    EndPeriod: 2173332908,
+    Duration: 599702400 seconds,
+    ProductRefs: [12, 13, 46, 47, 9]
+  }\n\n
+
+  #### Channel 441 ####
+  {
+    Name: TLNOVELAS,
+    Categories: Variedades,
+    Status: Active,
+    ChannelNo: 441,
+    Locale: es_LA,
+    StartPeriod: 1573630508,
+    EndPeriod: 2173332908,
+    Duration: 599702400 seconds,
+    ProductRefs: [12, 13, 182, 202, 203, 223, 46, 47, 9]
+  }\n\n
+
+
 Subscribed Channels - 2
 
   #### Channel 114 ####
