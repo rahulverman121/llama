@@ -3,7 +3,7 @@ User Subscription Data:
 
 Products Subscribed:
 
-Product ID: 42
+ProductID: 42
 Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
@@ -14,7 +14,7 @@ SD
 HD
 FHD
 
-Product ID: 43
+ProductID: 43
 Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
@@ -26,7 +26,7 @@ FHD
 UHD
 4K
 
-Product ID: 44
+ProductID: 44
 Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
@@ -37,7 +37,7 @@ SD
 FHD
 UHD
 
-Product ID: 45
+ProductID: 45
 Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
@@ -49,7 +49,7 @@ HD
 UHD
 4K
 
-Product ID: 46
+ProductID: 46
 Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
@@ -60,7 +60,7 @@ HD
 FHD
 4K
 
-Product ID: 48
+ProductID: 48
 Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
@@ -73,7 +73,7 @@ UHD
 
 Products Unsubscribed: 
 
-Product ID: 49
+ProductID: 49
 Status: UNSUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-01-15
@@ -83,7 +83,7 @@ Supported Channels:
 SD
 HD
 
-Product ID: 50
+ProductID: 50
 Status: UNSUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-07-01
@@ -93,7 +93,7 @@ Supported Channels:
 FHD
 UHD
 
-Product ID: 51
+ProductID: 51
 Status: UNSUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2024-02-20
@@ -104,7 +104,7 @@ HD
 UHD
 4K
 
-Product ID: 52
+ProductID: 52
 Status: UNSUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2024-05-10
