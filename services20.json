@@ -57,16 +57,7 @@
           "Description": "EL TIEMPO TV",
           "ShortName": "EL TIEMPO TV"
         },
-        "isFreemium": false,
-        "e": "Claro_ET24",
-        "t": "Claro_ET24-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -122,16 +113,7 @@
           "ProductRefs": "162;182;Nagra_hybrid_test_1;9;13;12",
           "Description": "CITYTV"
         },
-        "isFreemium": false,
-        "e": "Claro_CITYTV",
-        "t": "Claro_CITYTV-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -188,14 +170,7 @@
         },
         "isFreemium": false,
         "e": "Claro_ACTVCO",
-        "t": "1677616265943",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "t": "1677616265943"
       },
       {
         "locale": "es_LA",
@@ -253,16 +228,7 @@
           "npvrSupportDisablement": "true",
           "Description": "CANAL CONGRESO"
         },
-        "isFreemium": false,
-        "e": "Claro_CANALDELCONGRESOCOLOMBIA",
-        "t": "Claro_CANALDELCONGRESOCOLOMBIA-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -320,16 +286,7 @@
           "npvrSupportDisablement": "true",
           "Description": "COSMOVISION"
         },
-        "isFreemium": false,
-        "e": "Claro_COSMOVISIONCOLOMBIA",
-        "t": "Claro_COSMOVISIONCOLOMBIA-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -389,16 +346,7 @@
           "npvrSupportDisablement": "true",
           "Description": "ZOOM"
         },
-        "isFreemium": false,
-        "e": "Claro_ZOOMTVCOLOMBIA",
-        "t": "Claro_ZOOMTVCOLOMBIA-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -458,16 +406,7 @@
           "npvrSupportDisablement": "true",
           "Description": "RADIOLA TV"
         },
-        "isFreemium": false,
-        "e": "Claro_CMUSICAA",
-        "t": "Claro_CMUSICAA-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -528,16 +467,7 @@
           "InHomeBlockingRequired": "false",
           "Description": "SIN LÍMITES"
         },
-        "isFreemium": false,
-        "e": "Claro_CMUSICAB",
-        "t": "Claro_CMUSICAB-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -593,16 +523,7 @@
           "ltcuSupportDisablement": "true",
           "Description": "HTV"
         },
-        "isFreemium": false,
-        "e": "Claro_HTV",
-        "t": "Claro_HTV-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -662,16 +583,7 @@
           "InHomeBlockingRequired": "false",
           "Description": "MTV HITS"
         },
-        "isFreemium": false,
-        "e": "Claro_MTVHITS",
-        "t": "Claro_MTVHITS-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -724,16 +636,7 @@
           "Description": "MI GENTE",
           "ShortName": "MI GENTE"
         },
-        "isFreemium": false,
-        "e": "Claro_MIGENTETV",
-        "t": "1630953992227",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -786,16 +689,7 @@
           "ltcuSupportDisablement": "true",
           "Description": "MTV 80`S"
         },
-        "isFreemium": false,
-        "e": "Claro_VH1CLASSIC",
-        "t": "Claro_VH1CLASSIC-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -848,16 +742,7 @@
           "npvrSupportDisablement": "true",
           "Description": "TELEHIT"
         },
-        "isFreemium": false,
-        "e": "Claro_TELEHIT",
-        "t": "Claro_TELEHIT-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -916,16 +801,7 @@
           "ltcuSupportDisablement": "true",
           "Description": "BABY TV"
         },
-        "isFreemium": false,
-        "e": "Claro_BABYTV",
-        "t": "Claro_BABYTV-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -982,16 +858,7 @@
           "npvrSupportDisablement": "true",
           "Description": "TOONCAST"
         },
-        "isFreemium": false,
-        "e": "Claro_TOONCAST",
-        "t": "Claro_TOONCAST-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -1048,16 +915,7 @@
           "InHomeBlockingRequired": "false",
           "Description": "NICK MUSIC"
         },
-        "isFreemium": false,
-        "e": "Claro_NICKTOONS",
-        "t": "Claro_NICKTOONS-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -1114,16 +972,7 @@
           "ShortName": "EUREKA",
           "Description": "EUREKA"
         },
-        "isFreemium": false,
-        "e": "Claro_EUREKACO",
-        "t": "1677614858548",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -1176,16 +1025,7 @@
           "ProductRefs": "9;13;12",
           "Description": "DISCOVERY SCIENCE"
         },
-        "isFreemium": false,
-        "e": "Claro_DISCOVERYSCIENCE",
-        "t": "Claro_DISCOVERYSCIENCE-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -1243,16 +1083,7 @@
           "InHomeBlockingRequired": "false",
           "Description": "TLNOVELAS"
         },
-        "isFreemium": false,
-        "e": "Claro_TLNOVELASLATAM",
-        "t": "Claro_TLNOVELASLATAM-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       },
       {
         "locale": "es_LA",
@@ -1306,16 +1137,7 @@
           "npvrSupportDisablement": "true",
           "Description": "RCN NOVELAS"
         },
-        "isFreemium": false,
-        "e": "Claro_RCNTELENOVELAS",
-        "t": "Claro_RCNTELENOVELAS-TC-1",
-        "deviceType": [
-          "Android",
-          "STB",
-          "Chrome",
-          "ATV",
-          "Androidmob"
-        ]
+        "isFreemium": false
       }
     ],
     "total_records": 180
